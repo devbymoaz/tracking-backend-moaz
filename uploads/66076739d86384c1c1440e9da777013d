@@ -1,0 +1,251 @@
+Type,Ship From ,Ship To,Doc 0.5kg,Paket 1kg,Paket 2kg,Box 5kg,Box 10kg,Box 15kg,Box 20kg,Box 25kg,Suitcase 10kg,Suitcase 20kg,Suitcase 30kg,Days ENV,Days PARCEL,Insurance,Rating,Courier,Service
+,,,,,,,,,,,,,,,,,,,
+,Ireland,Afghanistan,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,,
+,Ireland,Albania,€75.00,€81.00,€81.00,€93.00,€115.00,€142.00,€169.00,€218.00,€135.00,€189.00,€273.00,3-4 Days,9 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Algeria,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,3 Days,3-4 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,American Samoa (US),€74.00,€85.00,€85.00,€111.00,€150.00,€197.00,€234.00,€199.00,€170.00,€254.00,€270.00,4-5 Days,6-8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Andorra,€63.00,€81.00,€81.00,€93.00,€115.00,€142.00,€169.00,€218.00,€135.00,€189.00,€273.00,6 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Angola,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Anguilla,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,7 Days,12-14 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Antigua and Barbuda,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Argentina,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Armenia,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,3 Days,3-4 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Aruba (Netherlands),€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Australia,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+EU,Ireland,Austria,€65.00,€69.00,€69.00,€71.00,€76.00,€84.00,€90.00,€101.00,€102.00,€137.00,€156.00,3 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Azerbaijan,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,3 Days,3-4 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Bahamas,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Bahrain,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,3 Days,3-4 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Bangladesh,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,3 Days,3-4 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Barbados,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Belarus,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,€70,,UPS Express,Varamex Express
+EU,Ireland,Belgium,€65.00,€69.00,€69.00,€71.00,€76.00,€84.00,€90.00,€101.00,€102.00,€137.00,€156.00,3 Days,5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Belize,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Benin,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,9 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Bermuda (BOT),€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Bhutan,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,3 Days,3-4 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Bolivia,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,8 Days,9 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Bonaire,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,8 Days,9 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Bosnia and Herzegovina,€71.00,€93.00,€93.00,€93.00,€115.00,€142.00,€169.00,€199.00,€135.00,€189.00,€270.00,3 Days,4 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Botswana,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Brazil,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,British Virgin Islands,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,8 Days,9 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Brunei,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,3 Days,3-4 Days,€70,4/5*,UPS Express,Varamex Express
+EU,Ireland,Bulgaria,€71.00,€71.00,€71.00,€75.00,€83.00,€91.00,€98.00,€122.00,€103.00,€118.00,€168.00,4 Days,12 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Burkina Faso,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,9 Days,10-12 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Burundi,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,9 Days,10-12 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Cambodia,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,7 Days,10-13 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Cameroon,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Canada,€70.00,€76.00,€76.00,€91.00,€115.00,€137.00,€169.00,€219.00,€135.00,€189.00,€270.00,2-4 Days,6-7 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Cape Verde,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Cayman Islands ,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Central African Republic,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,,,€70,,UPS Express,Varamex Express
+,Ireland,Chad,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Chile,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,China,€74.00,€86.00,€86.00,€108.00,€145.00,€197.00,€249.00,€199.00,€145.00,€269.00,€279.00,3-4 Days,10 Days,€70,,UPS Express,Varamex Express
+,Ireland,Christmas Island,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,€70,,UPS Express,Varamex Express
+,Ireland,Cocos (Keeling) Islands,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,€70,,UPS Express,Varamex Express
+,Ireland,Colombia,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Comoros,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,,,€70,,UPS Express,Varamex Express
+,Ireland,Congo,€74.00,€85.00,€85.00,€111.00,€150.00,€197.00,€234.00,€199.00,€170.00,€254.00,€270.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Cook Islands,€74.00,€85.00,€85.00,€111.00,€150.00,€197.00,€234.00,€199.00,€170.00,€254.00,€270.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Costa Rica,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+EU,Ireland,Croatia,€71.00,€71.00,€71.00,€75.00,€83.00,€91.00,€98.00,€122.00,€103.00,€118.00,€168.00,4 Days,12 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Cuba,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,€70,,UPS Express,Varamex Express
+,Ireland,Curacao,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+EU,Ireland,Cyprus,€85.00,€82.00,€82.00,€102.00,€130.00,€157.00,€185.00,€218.00,€150.00,€197.00,€297.00,4 Days,6-9 Days,€70,4/5*,UPS Express,Varamex Express
+EU,Ireland,Czech Republic,€65.00,€69.00,€69.00,€71.00,€76.00,€84.00,€90.00,€101.00,€102.00,€137.00,€156.00,4 Days,12 Days,€70,4/5*,UPS Express,Varamex Express
+EU,Ireland,Denmark,€65.00,€69.00,€69.00,€71.00,€76.00,€84.00,€90.00,€101.00,€102.00,€137.00,€156.00,3 Days,6 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Djibouti,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Dominica,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Dominican Republic,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,DR Congo,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,East Timor,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,€70,,UPS Express,Varamex Express
+,Ireland,Ecuador,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,,,€70,,UPS Express,Varamex Express
+,Ireland,Egypt,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,3 Days,3-4 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,El Salvador,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Equatorial Guinea,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,€70,,UPS Express,Varamex Express
+,Ireland,Eritrea,€74.00,€85.00,€85.00,€111.00,€150.00,€197.00,€234.00,€199.00,€170.00,€254.00,€270.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+EU,Ireland,Estonia,€71.00,€71.00,€71.00,€75.00,€83.00,€91.00,€98.00,€122.00,€103.00,€118.00,€168.00,3 Days,10-12 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Eswatini,€74.00,€85.00,€85.00,€111.00,€150.00,€197.00,€234.00,€199.00,€170.00,€254.00,€270.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Ethiopia,€74.00,€85.00,€85.00,€111.00,€150.00,€197.00,€234.00,€199.00,€170.00,€254.00,€270.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Falkland Islands ,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,€70,,UPS Express,Varamex Express
+EU,Ireland,Faroe Islands (Denmark),€75.00,€81.00,€81.00,€93.00,€115.00,€142.00,€169.00,€218.00,€135.00,€189.00,€273.00,3 Days,6 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Fiji,€74.00,€85.00,€85.00,€111.00,€150.00,€197.00,€234.00,€199.00,€170.00,€254.00,€270.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+EU,Ireland,Finland,€71.00,€71.00,€71.00,€75.00,€83.00,€91.00,€98.00,€122.00,€103.00,€118.00,€168.00,3 Days,6 Days,€70,4/5*,UPS Express,Varamex Express
+EU,Ireland,France,€65.00,€69.00,€69.00,€71.00,€76.00,€84.00,€90.00,€101.00,€102.00,€137.00,€156.00,3 Days,6 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,French Guiana (France),€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,French Polynesia (France),€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Gabon,€74.00,€85.00,€85.00,€111.00,€150.00,€197.00,€234.00,€199.00,€170.00,€254.00,€270.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Gambia,€74.00,€85.00,€85.00,€111.00,€150.00,€197.00,€234.00,€199.00,€170.00,€254.00,€270.00,9 Days,10-12 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Georgia,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,3 Days,3-4 Days,€70,4/5*,UPS Express,Varamex Express
+EU,Ireland,Germany,€65.00,€69.00,€69.00,€71.00,€76.00,€84.00,€90.00,€101.00,€102.00,€137.00,€156.00,3 Days,5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Ghana,€74.00,€85.00,€85.00,€111.00,€150.00,€197.00,€234.00,€199.00,€170.00,€254.00,€270.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Gibraltar,€58.00,€75.00,€75.00,€78.00,€84.00,€91.00,No service,No service,No service,No service,No service,3 Days,6 Days,€70,4/5*,UPS Express,Varamex Express
+EU,Ireland,Greece Mainland,€71.00,€71.00,€71.00,€75.00,€83.00,€91.00,€98.00,€122.00,€103.00,€118.00,€168.00,4 Days,8-10 Days,€70,4/5*,UPS Express,Varamex Express
+EU,Ireland,Greece Islands,€71.00,€81.00,€81.00,€85.00,€93.00,€101.00,€108.00,€132.00,€113.00,€128.00,€178.00,6 Days,9-11 Days,€70,4/5*,UPS Express,Varamex Express
+EU,Ireland,Greenland (Denmark),€75.00,€81.00,€81.00,€93.00,€115.00,€142.00,€169.00,€218.00,€135.00,€189.00,€273.00,3 Days,6 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Grenada,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Guadeloupe (France),€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Guam (US),€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Guatemala,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Guernsey,€75.00,€81.00,€81.00,€93.00,€115.00,€142.00,€169.00,€218.00,€135.00,€189.00,€273.00,,,€70,,UPS Express,Varamex Express
+,Ireland,Guinea,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Guinea-Bissau,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,,,€70,,UPS Express,Varamex Express
+,Ireland,Guyana,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Haiti,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Honduras,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Hong Kong,€74.00,€86.00,€86.00,€108.00,€145.00,€197.00,€249.00,€199.00,€145.00,€269.00,€279.00,3-4 Days,10 Days,€70,4/5*,UPS Express,Varamex Express
+EU,Ireland,Hungary,€65.00,€69.00,€69.00,€71.00,€76.00,€84.00,€90.00,€101.00,€102.00,€137.00,€156.00,3 Days,6-9 Days,€70,4/5*,UPS Express,Varamex Express
+EU,Ireland,Iceland,€75.00,€81.00,€81.00,€93.00,€115.00,€142.00,€169.00,€218.00,€135.00,€189.00,€273.00,4 Days,9 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,India,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,4 Days,6-9 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Indonesia,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,7-9 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Iran,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,€70,,UPS Express,Varamex Express
+N/A,Ireland,Ireland,€65.00,€75.00,€75.00,€75.00,€75.00,€75.00,€75.00,€79.00,€79.00,€79.00,€89.00,1 Day,1 Day,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Iraq,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Isle of Man,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Israel,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,3 Days,3-4 Days,€70,4/5*,UPS Express,Varamex Express
+EU,Ireland,Italy,€65.00,€69.00,€69.00,€71.00,€76.00,€84.00,€90.00,€101.00,€102.00,€137.00,€156.00,3 Days,7 Days,€70,4/5*,UPS Express,Varamex Express
+EU,Ireland,Italy Island,€65.00,€89.00,€89.00,€92.00,€96.00,€118.00,€110.00,€121.00,€122.00,€157.00,€176.00,8 Days,12-14 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Ivory Coast,€74.00,€85.00,€85.00,€111.00,€150.00,€197.00,€234.00,€199.00,€170.00,€254.00,€270.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Jamaica,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Japan,€74.00,€86.00,€86.00,€108.00,€145.00,€197.00,€249.00,€199.00,€145.00,€269.00,€279.00,9 Days,10-12 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Jersey ,€75.00,€81.00,€81.00,€93.00,€115.00,€142.00,€169.00,€218.00,€135.00,€189.00,€273.00,3 Days,6 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Jordan,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,3 Days,3-4 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Kazakhstan,€74.00,€85.00,€85.00,€111.00,€150.00,€197.00,€234.00,€199.00,€170.00,€254.00,€270.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Kenya,€74.00,€85.00,€85.00,€111.00,€150.00,€197.00,€234.00,€199.00,€170.00,€254.00,€270.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Kiribati,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,€70,,UPS Express,Varamex Express
+,Ireland,Kosovo,€75.00,€81.00,€81.00,€93.00,€115.00,€142.00,€169.00,€218.00,€135.00,€189.00,€273.00,,,€70,,UPS Express,Varamex Express
+,Ireland,Kuwait,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,3 Days,3-4 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Kyrgyzstan,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Laos,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,7-9 Days,€70,4/5*,UPS Express,Varamex Express
+EU,Ireland,Latvia,€71.00,€71.00,€71.00,€75.00,€83.00,€91.00,€98.00,€122.00,€103.00,€118.00,€168.00,4 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Lebanon,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,3 Days,3-4 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Lesotho,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Liberia,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Libya,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,3 Days,3-4 Days,€70,4/5*,UPS Express,Varamex Express
+EU,Ireland,Liechtenstein,€65.00,€81.00,€81.00,€92.00,€113.00,€140.00,€166.00,€195.00,€133.00,€186.00,€265.00,3 Days,10-12 Days,€70,4/5*,UPS Express,Varamex Express
+EU,Ireland,Lithuania,€71.00,€71.00,€71.00,€75.00,€83.00,€91.00,€98.00,€122.00,€103.00,€118.00,€168.00,3 Days,6 Days,€70,4/5*,UPS Express,Varamex Express
+EU,Ireland,Luxembourg,€65.00,€69.00,€69.00,€71.00,€76.00,€84.00,€90.00,€101.00,€102.00,€137.00,€156.00,3 Days,6 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Macau,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,7-9 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Madagascar,€74.00,€85.00,€85.00,€111.00,€150.00,€197.00,€234.00,€199.00,€170.00,€254.00,€270.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Malawi,€74.00,€85.00,€85.00,€111.00,€150.00,€197.00,€234.00,€199.00,€170.00,€254.00,€270.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Malaysia,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,4 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Maldives,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Mali,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+EU,Ireland,Malta,€71.00,€105.00,€105.00,€117.00,€120.00,€132.00,€145.00,€154.00,€145.00,€170.00,€196.00,2-3 Days,8-10 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Marshall Islands,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Martinique (France),€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Mauritania,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Mauritius,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Mayotte (France),€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,,,€70,,UPS Express,Varamex Express
+,Ireland,Mexico,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,4 Days,8 Days,€70,,UPS Express,Varamex Express
+,Ireland,Micronesia,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Moldova,€76.00,€96.00,€95.00,€104.00,€107.00,€117.00,No service,No service,No service,No service,No service,4 Days,8-9 Days,€70,4/5*,UPS Express,Varamex Express
+EU,Ireland,Monaco,€75.00,€81.00,€81.00,€93.00,€115.00,€142.00,€169.00,€218.00,€135.00,€189.00,€273.00,2 Days,4 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Mongolia,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Montenegro,€75.00,€81.00,€81.00,€93.00,€115.00,€142.00,€169.00,€218.00,€135.00,€189.00,€273.00,5 Days,8-11 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Montserrat (BOT),€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Morocco,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,3 Days,3-4 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Mozambique,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Myanmar,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,€70,,UPS Express,Varamex Express
+,Ireland,Namibia,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Nauru,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,€70,,UPS Express,Varamex Express
+,Ireland,Nepal,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,3 Days,3-4 Days,€70,4/5*,UPS Express,Varamex Express
+EU,Ireland,Netherlands,€75.00,€69.00,€69.00,€71.00,€76.00,€84.00,€90.00,€101.00,€102.00,€137.00,€156.00,2-3 Days,4-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,New Caledonia (France),€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,New Zealand,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Nicaragua,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Niger,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Nigeria,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Niue,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,€70,,UPS Express,Varamex Express
+,Ireland,Norfolk Island (Australia),€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,,,€70,,UPS Express,Varamex Express
+,Ireland,North Korea,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,€70,,UPS Express,Varamex Express
+,Ireland,North Macedonia,€75.00,€81.00,€81.00,€93.00,€115.00,€142.00,€169.00,€218.00,€135.00,€189.00,€273.00,4 Days,9-13 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Northern Cyprus,€75.00,€81.00,€81.00,€93.00,€115.00,€142.00,€169.00,€218.00,€135.00,€189.00,€273.00,4 Days,9-13 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Northern Mariana Islands (US),€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Norway,€75.00,€81.00,€81.00,€92.00,€113.00,€140.00,€166.00,€195.00,€133.00,€186.00,€265.00,3 Days,10-12 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Oman,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,3 Days,3-4 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Pakistan,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,3 Days,3-4 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Palau,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Palestine,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,3 Days,3-4 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Panama,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Papua New Guinea,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Paraguay,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Peru,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Philippines,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,7-9 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Pitcairn Islands (BOT),No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,€70,,UPS Express,Varamex Express
+N/A,Ireland,Poland,€65.00,€69.00,€69.00,€71.00,€76.00,€84.00,€90.00,€101.00,€102.00,€137.00,€156.00,4 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+EU,Ireland,Portugal,€65.00,€69.00,€69.00,€71.00,€76.00,€84.00,€90.00,€101.00,€102.00,€137.00,€156.00,3 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Puerto Rico (US),€70.00,€76.00,€76.00,€91.00,€115.00,€137.00,€169.00,€219.00,€135.00,€189.00,€270.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Qatar,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,3 Days,3-4 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Réunion (France),€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Romania,€71.00,€71.00,€71.00,€75.00,€83.00,€91.00,€98.00,€122.00,€103.00,€118.00,€168.00,3 Days,10-12 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Russia,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,€70,,UPS Express,Varamex Express
+,Ireland,Rwanda,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,7 Days,12-14 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Saint Barthélemy (France),€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,,,€70,,UPS Express,Varamex Express
+,Ireland,Saint Helena,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,€70,,UPS Express,Varamex Express
+,Ireland,Saint Kitts and Nevis,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Saint Lucia,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Saint Martin (France),€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Saint Pierre and Miquelon,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,€70,,UPS Express,Varamex Express
+,Ireland,Saint Vincent and the Grenadines,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Samoa,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,San Marino,€75.00,€81.00,€81.00,€93.00,€115.00,€142.00,€169.00,€218.00,€135.00,€189.00,€273.00,,,€70,,UPS Express,Varamex Express
+,Ireland,São Tomé and Príncipe,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,€70,,UPS Express,Varamex Express
+,Ireland,Saudi Arabia,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,3 Days,3-4 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Senegal,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,2-4 Days,2-5 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Serbia,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,8 Days,9 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Seychelles,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,,,€70,,UPS Express,Varamex Express
+,Ireland,Sierra Leone,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,,,€70,,UPS Express,Varamex Express
+,Ireland,Singapore,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,7-9 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Sint Eustatius (Netherlands),€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,,,€70,,UPS Express,Varamex Express
+,Ireland,Sint Maarten (Netherlands),€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+EU,Ireland,Slovakia,€65.00,€69.00,€69.00,€71.00,€76.00,€84.00,€90.00,€101.00,€102.00,€137.00,€156.00,4 Days,12 Days,€70,4/5*,UPS Express,Varamex Express
+EU,Ireland,Slovenia,€65.00,€69.00,€69.00,€71.00,€76.00,€84.00,€90.00,€101.00,€102.00,€137.00,€156.00,4 Days,12 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Solomon Islands,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,€70,,UPS Express,Varamex Express
+,Ireland,Somalia,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,€70,,UPS Express,Varamex Express
+,Ireland,South Africa,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,8 Days,10-12 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,South Korea,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,7-9 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,South Sudan,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,€70,,UPS Express,Varamex Express
+EU,Ireland,Spain Mainland,€65.00,€69.00,€69.00,€71.00,€76.00,€84.00,€90.00,€101.00,€102.00,€137.00,€156.00,3 Days,8 Days,€70,4/5*,UPS Express,Varamex Express
+EU,Ireland,"Spain Mallorca, Menorca",€65.00,€69.00,€69.00,€81.00,€86.00,€94.00,€99.00,€111.00,€112.00,€147.00,€166.00,4 Days,9-11 Days,€70,4/5*,UPS Express,Varamex Express
+EU,Ireland,Spain Canary Islands,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,4 Days,9-11 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Sri Lanka,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,7-9 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Sudan,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,€70,,UPS Express,Varamex Express
+,Ireland,Suriname,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,8 Days,9 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Svalbard and Jan Mayen,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,€70,,UPS Express,Varamex Express
+,Ireland,Sweden,€71.00,€71.00,€71.00,€75.00,€83.00,€91.00,€98.00,€122.00,€103.00,€118.00,€168.00,3 Days,6 Days,€70,4/5*,UPS Express,Varamex Express
+EU,Ireland,Switzerland,€75.00,€81.00,€81.00,€92.00,€113.00,€140.00,€166.00,€195.00,€133.00,€186.00,€265.00,3 Days,10-12 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Syria,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,€70,,UPS Express,Varamex Express
+,Ireland,Taiwan,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,5 Days,7-9 Days,€70,,UPS Express,Varamex Express
+,Ireland,Tajikistan,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,€70,,UPS Express,Varamex Express
+,Ireland,Tanzania,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,8-12 Days,8-12 Days,€70,,UPS Express,Varamex Express
+,Ireland,Thailand,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,,,€70,,UPS Express,Varamex Express
+,Ireland,Togo,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,8-12 Days,8-12 Days,€70,,UPS Express,Varamex Express
+,Ireland,Tokelau ,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,€70,,UPS Express,Varamex Express
+,Ireland,Tonga,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,8-12 Days,8-12 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Transnistria,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,4 Days,8-9 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Trinidad and Tobago,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,8 Days,9 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Tunisia,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,8 Days,9 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Turkey,€75.00,€81.00,€81.00,€93.00,€115.00,€142.00,€169.00,€218.00,€135.00,€189.00,€273.00,4 Days,8-9 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Turkmenistan,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,€70,,UPS Express,Varamex Express
+,Ireland,Turks and Caicos Islands ,€75.00,€81.00,€81.00,€93.00,€115.00,€142.00,€169.00,€218.00,€135.00,€189.00,€273.00,8 Days,9 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Tuvalu,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,€70,,UPS Express,Varamex Express
+,Ireland,U.S. Virgin Islands (US),€70.00,€76.00,€76.00,€91.00,€115.00,€137.00,€169.00,€219.00,€135.00,€189.00,€270.00,,,€70,,UPS Express,Varamex Express
+,Ireland,Uganda,€75.00,€93.00,€98.00,€116.00,€144.00,€252.00,No service,No service,No service,No service,€464.00,8-12 Days,8-12 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Ukraine,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,€70,,UPS Express,Varamex Express
+,Ireland,United Arab Emirates,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,3 Days,3-4 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,United Kingdom,€60.00,€62.00,€62.00,€64.00,€69.00,€73.00,€78.00,€105.00,€89.00,€98.00,€133.00,3 Days,6 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,United States,€70.00,€76.00,€76.00,€91.00,€115.00,€137.00,€169.00,€219.00,€135.00,€189.00,€270.00,3 Days,7 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Uruguay,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,8 Days,9 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Uzbekistan,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,8-12 Days,8-12 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Vanuatu,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,8-12 Days,8-12 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Vatican City,€63.00,€66.00,€66.00,€68.00,€72.00,€77.00,€83.00,€111.00,€92.00,€103.00,€140.00,3 Days,7 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Venezuela,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,,,€70,,UPS Express,Varamex Express
+,Ireland,Vietnam,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,7 Days,9 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Wallis and Futuna (France),No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,8-12 Days,8-12 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Western Sahara,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,€70,,UPS Express,Varamex Express
+,Ireland,Yemen,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,€70,,UPS Express,Varamex Express
+,Ireland,Zambia,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,8-12 Days,8-12 Days,€70,4/5*,UPS Express,Varamex Express
+,Ireland,Zimbabwe,€74.00,€80.00,€80.00,€106.00,€145.00,€192.00,€229.00,€274.00,€165.00,€249.00,€360.00,8-12 Days,8-12 Days,€70,4/5*,UPS Express,Varamex Express

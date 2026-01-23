@@ -1,0 +1,251 @@
+Type,Ship From ,Ship To,Doc 0.5kg,Paket 1kg,Paket 2kg,Box 5kg,Box 10kg,Box 15kg,Box 20kg,Box 25kg,Suitcase 10kg,Suitcase 20kg,Suitcase 30kg,Days ENV,Days PARCEL,Insurance,Rating,Courier,Service,Electronics & Any Liquids
+,Estonia,,,,,,,,,,,,,,,,,,,
+,Estonia,Afghanistan,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,,,
+,Estonia,Albania,71,100,103,112,117,124,No service,No service,No service,No service,No service,3 Days,7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Algeria,57,84,87,101,126,189,No service,No service,No service,No service,No service,4 Days,6 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,American Samoa,67,98,103,121,No service,No service,No service,No service,No service,No service,No service,8 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Andorra,58,80,80,82,86,93,No service,No service,No service,No service,No service,3 Days,5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Angola,67,98,103,121,149,257,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Anguilla,63,92,96,111,132,234,No service,No service,No service,No service,No service,7 Days,8-10 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Antigua and Barbuda,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Argentina,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Armenia,57,84,87,101,126,189,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Aruba,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Australia,83,119,128,163,209,290,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Estonia,Austria,53,65,65,67,71,78,88,93,93,125,127,1-2 Days,6 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Azerbaijan,57,84,87,101,126,189,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Bahamas,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Bahrain,57,84,87,101,126,189,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Bangladesh,57,84,87,101,126,189,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Barbados,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Belarus,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+EU,Estonia,Belgium,52,64,67,69,72,77,85,92,119,127,132,1-2 Days,5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Belize,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Benin,70,98,103,121,149,257,No service,No service,No service,No service,No service,5 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Bermuda ,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Bhutan,57,84,87,101,126,189,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Bolivia,66,92,96,111,132,234,No service,No service,No service,No service,No service,8 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Bonaire,66,92,96,111,132,234,No service,No service,No service,No service,No service,8 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Bosnia and Herzegovina,71,100,103,112,117,124,No service,No service,No service,No service,No service,3 Days,4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Botswana,67,98,103,121,149,257,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Brazil,67,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,British Virgin Islands ,66,92,96,111,132,234,No service,No service,No service,No service,No service,8 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Brunei,57,84,87,101,126,189,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Estonia,Bulgaria,58,74,77,79,82,95,103,112,139,147,152,1-2 Days,6 Dasys,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Burkina Faso,67,98,103,121,149,257,No service,No service,No service,No service,No service,7 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Burundi,67,98,103,121,149,257,No service,No service,No service,No service,No service,7 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Cambodia,61,89,93,110,133,193,No service,No service,No service,No service,No service,7 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Cameroon,67,98,103,121,149,257,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Canada,65,85,89,107,127,195,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Cape Verde,67,98,103,121,149,257,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Cayman Islands,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Central African Republic,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Chad,67,98,103,121,149,257,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Chile,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,China,54,116,119,132,146,211,No service,No service,No service,No service,No service,3-4 Days,4-5 Days,80,,Varamex Priority,Priority World,Allowed
+,Estonia,Christmas Island,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Cocos Keeling Islands,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Colombia,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Comoros,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Congo,67,98,103,121,149,257,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Cook Islands,67,98,103,121,149,257,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Costa Rica,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Estonia,Croatia,58,74,77,79,82,95,103,112,139,147,152,1-2 Days,6 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Cuba,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Curacao ,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Estonia,Cyprus,75,95,95,102,109,123,135,147,177,187,209,1-2 Days,6-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Estonia,Czech Republic,58,74,77,79,82,95,103,112,114,122,127,1-2 Days,4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Estonia,Denmark,52,65,65,68,74,81,87,93,99,112,127,1-2 Days,5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Djibouti,67,98,103,121,149,257,No service,No service,No service,No service,No service,5-7 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Dominica,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Dominican Republic,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Democratic Republic of Congo,67,98,103,121,149,257,No service,No service,No service,No service,No service,2-4 Days,5-6 Dasy,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,East Timor,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Ecuador,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Egypt,57,84,87,101,126,189,No service,No service,No service,No service,No service,4 Days,5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,El Salvador,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Equatorial Guinea,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Eritrea,67,98,103,121,149,257,No service,No service,No service,No service,No service,5 Days,7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Estonia,Estonia,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,1-2 Days,5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Eswatini,67,98,103,121,149,257,No service,No service,No service,No service,No service,7 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Ethiopia,67,98,103,121,149,257,No service,No service,No service,No service,No service,7 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Falkland Islands,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+EU,Estonia,Faroe Islands ,48,65,65,68,74,81,87,93,99,112,127,1-2 Days,6 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Fiji,67,98,103,121,149,257,No service,No service,No service,No service,No service,7 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Estonia,Finland,52,65,65,68,74,81,87,93,99,112,127,1-2 Days,6 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Estonia,France,52,64,67,69,72,77,85,92,119,127,132,1-2 Days,6 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,French Guiana ,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,French Polynesia ,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Gabon,67,98,103,121,149,257,No service,No service,No service,No service,No service,6 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Gambia,67,98,103,121,149,257,No service,No service,No service,No service,No service,7 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Georgia,57,84,87,101,126,189,No service,No service,No service,No service,No service,4-6 Days,7-8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Estonia,Germany,52,64,67,69,72,77,85,92,119,127,132,1-2 Days,5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Ghana,67,98,103,121,149,257,No service,No service,No service,No service,No service,7 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Gibraltar ,53,80,80,83,89,96,No service,No service,No service,No service,No service,3 Days,5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Estonia,Greece Mainland,52,68,75,78,80,83,89,95,105,153,177,1-2 Days,5-7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Estonia,Greece Islands,87,112,112,107,119,128,128,137,144,185,193,2-3 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Estonia,Greenland,48,65,65,68,74,81,87,93,99,112,127,1-2 Days,5-7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Grenada,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Guadeloupe ,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Guam (US),67,98,103,121,149,257,No service,No service,No service,No service,No service,7 Days,8-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Guatemala,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Guernsey ,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Guinea,67,98,103,121,149,257,No service,No service,No service,No service,No service,5-7 Days,7-8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Guinea-Bissau,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Guyana,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Haiti,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Honduras,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Hong Kong,54,116,119,132,146,211,No service,No service,No service,No service,No service,3-4 Days,5-7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Estonia,Hungary,57,74,77,79,82,95,103,112,139,147,152,1-2 Days,3 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Estonia,Iceland,66,100,100,105,117,124,133,142,142,158,175,1-2 Days,5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,India,57,84,87,101,126,189,No service,No service,No service,No service,No service,4 Days,8-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Indonesia,64,89,94,110,134,194,No service,No service,No service,No service,No service,5 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Iran,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Ireland,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,1 Day,1 Day,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Iraq,67,98,103,121,149,257,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Isle of Man,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Israel,57,84,87,101,126,189,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Estonia,Italy,53,65,65,68,74,81,87,93,99,112,127,1-2 Days,5-7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Estonia,Italy Island,70,104,105,112,118,122,129,144,143,154,170,1-2 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Ivory Coast,67,98,103,121,149,257,No service,No service,No service,No service,No service,7 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Jamaica,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Japan,60,124,129,146,169,229,No service,No service,No service,No service,No service,7 Days,10-12 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Jersey ,57,84,87,101,126,189,No service,No service,No service,No service,No service,3 Days,6 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Jordan,57,84,87,101,126,189,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Kazakhstan,67,98,103,121,149,257,No service,No service,No service,No service,No service,3-5 Days,5-6 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Kenya,67,98,103,121,149,257,No service,No service,No service,No service,No service,3-5 Days,5-6 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Kiribati,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Kosovo,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Kuwait,57,84,87,101,126,189,No service,No service,No service,No service,No service,3 Days,4-5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Kyrgyzstan,67,98,103,121,149,257,No service,No service,No service,No service,No service,3-5 Days,4-5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Laos,64,89,94,110,134,194,No service,No service,No service,No service,No service,5 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Estonia,Latvia,58,74,77,79,82,95,103,112,139,148,152,1-2 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Lebanon,57,84,87,101,126,189,No service,No service,No service,No service,No service,7 Days,8-10 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Lesotho,67,98,103,121,149,257,No service,No service,No service,No service,No service,7 Days,8-10 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Liberia,67,98,103,121,149,257,No service,No service,No service,No service,No service,7 Days,8-10 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Libya,57,84,87,101,126,189,No service,No service,No service,No service,No service,5 Days,8-10 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Estonia,Liechtenstein,54,100,100,105,117,124,133,142,142,158,175,1-2 Days,3-4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Estonia,Lithuania,58,74,77,79,82,95,103,112,114,122,127,1-2 Days,3-4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Estonia,Luxembourg,54,74,77,82,84,87,99,106,133,139,180,1-2 Days,3-4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Macau,64,89,94,110,134,194,No service,No service,No service,No service,No service,5 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Madagascar,67,98,103,121,149,257,No service,No service,No service,No service,No service,3-5 Days,6-7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Malawi,67,98,103,121,149,257,No service,No service,No service,No service,No service,3-5 Days,6-7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Malaysia,60,89,94,110,134,194,No service,No service,No service,No service,No service,4 Days,6-7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Maldives,67,98,103,121,149,257,No service,No service,No service,No service,No service,3-5 Days,6-7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Mali,67,98,103,121,149,257,No service,No service,No service,No service,No service,3-5 Days,6-7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Estonia,Malta,77,95,95,107,110,122,135,144,135,160,186,2-3 Days,8-10 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Marshall Islands,67,98,103,121,149,257,No service,No service,No service,No service,No service,7 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Martinique ,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Mauritania,67,98,103,121,149,257,No service,No service,No service,No service,No service,2-4 Days,5-7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Mauritius,67,98,103,121,149,257,No service,No service,No service,No service,No service,2-4 Days,5-7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Mayotte,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Mexico,63,92,96,111,132,234,No service,No service,No service,No service,No service,4 Days,8 Days,80,,Varamex Priority,Priority World,Allowed
+,Estonia,Micronesia,67,98,103,121,149,257,No service,No service,No service,No service,No service,8 Days,10 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Moldova,71,101,100,109,112,122,No service,No service,No service,No service,No service,4 Days,5-7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Estonia,Monaco,48,60,60,62,66,72,77,82,91,102,113,1-2 Days,3 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Mongolia,67,98,103,121,149,257,No service,No service,No service,No service,No service,6-8 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Montenegro,71,100,103,112,117,124,No service,No service,No service,No service,No service,5 Days,7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Montserrat ,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Morocco,57,84,87,101,126,189,No service,No service,No service,No service,No service,3 Days,5-7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Mozambique,67,98,103,121,149,257,No service,No service,No service,No service,No service,6-8 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Myanmar,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Namibia,67,98,103,121,149,257,No service,No service,No service,No service,No service,6-8 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Nauru,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Nepal,57,84,87,101,126,189,No service,No service,No service,No service,No service,6-8 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Estonia,Netherlands,52,64,67,69,72,77,85,92,119,127,132,1-2 Days,4-5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,New Caledonia,67,98,103,121,149,257,No service,No service,No service,No service,No service,6-8 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,New Zealand,83,119,128,163,209,290,No service,No service,No service,No service,No service,6-8 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Nicaragua,63,92,96,111,132,234,No service,No service,No service,No service,No service,6-8 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Niger,67,98,103,121,149,257,No service,No service,No service,No service,No service,2-4 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Nigeria,67,98,103,121,149,257,No service,No service,No service,No service,No service,2-4 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Niue,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Norfolk Island,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,North Korea,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,North Macedonia,71,100,103,112,117,124,No service,No service,No service,No service,No service,4 Days,6-7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Northern Cyprus,71,100,103,112,117,124,No service,No service,No service,No service,No service,4 Days,6-7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Northern Mariana Islands,67,98,103,121,149,257,No service,No service,No service,No service,No service,6-8 Days,10-12 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Norway,59,115,115,120,132,139,No service,No service,No service,No service,No service,3 Days,4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Oman,57,84,87,101,126,189,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Pakistan,57,84,87,101,126,189,No service,No service,No service,No service,No service,6-8 Days,6-8 Days,80,4/5*,Varamex Priority,Passport - NO,Allowed
+,Estonia,Palau,67,98,103,121,149,257,No service,No service,No service,No service,No service,6-8 Days,6-8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Palestine,57,84,87,101,126,189,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Panama,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Papua New Guinea,67,98,103,121,149,257,No service,No service,No service,No service,No service,6-8 Days,5-8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Paraguay,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Peru,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Philippines,64,89,94,110,134,194,No service,No service,No service,No service,No service,5 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Pitcairn Islands,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Poland,63,88,92,94,97,110,118,127,154,162,167,1-2 Days,4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Estonia,Portugal,53,65,65,67,71,78,88,93,118,113,127,1-2 Days,4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Puerto Rico,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Qatar,57,84,87,101,126,189,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Reunion ,67,98,103,121,149,257,No service,No service,No service,No service,No service,6-8 Days,4-6 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Romania,62,89,92,94,97,110,No service,No service,No service,No service,No service,3 Days,4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Russia,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Rwanda,71,98,103,121,149,258,No service,No service,No service,No service,No service,7 Days,8-10 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Saint Barthelemy,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Saint Helena,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Saint Kitts and Nevis,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Saint Lucia,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Saint Martin,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Saint Pierre and Miquelon ,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Saint Vincent and the Grenadines,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Samoa,67,98,103,121,149,257,No service,No service,No service,No service,No service,6-8 Days,2-5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,San Marino,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Sao Tome and Principe,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Saudi Arabia,57,84,87,101,126,189,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Senegal,67,98,103,121,149,257,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Serbia,72,100,103,112,117,124,No service,No service,No service,No service,No service,6 Days,7-8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Seychelles,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Sierra Leone,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Singapore,64,89,94,110,134,194,No service,No service,No service,No service,No service,5 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Sint Eustatius,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Sint Maarten,63,92,95,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Estonia,Slovakia,58,74,77,79,82,95,103,112,139,147,152,1-2 Days,4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Estonia,Slovenia,58,74,77,79,82,95,103,112,139,147,152,1-2 Days,4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Solomon Islands,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Somalia,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,South Africa,66,92,95,111,132,234,No service,No service,No service,No service,No service,8 Days,10-12 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,South Korea,64,89,94,110,134,194,No service,No service,No service,No service,No service,5 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,South Sudan,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+EU,Estonia,Spain,53,65,65,67,71,78,88,93,118,125,127,1-2 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Estonia,Mallorca,88,104,104,107,115,121,137,142,140,162,170,2-4 Days,9-11 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Estonia,Canary Islands,88,117,118,120,129,134,150,155,154,175,181,2-4 Days,9-11 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Sri Lanka,64,89,94,110,134,194,No service,No service,No service,No service,No service,5 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Sudan,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Suriname,66,92,96,111,132,234,No service,No service,No service,No service,No service,7 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Svalbard and Jan Mayen ,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,1-2 Days,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Sweden,58,80,80,83,89,96,No service,No service,No service,No service,No service,3 Days,6 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Estonia,Switzerland,54,100,100,105,117,124,133,142,142,158,175,1-2 Days,3 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Syria,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Taiwan,64,89,94,110,134,194,No service,No service,No service,No service,348,5 Days,7-9 Days,80,,Varamex Priority,Priority World,Allowed
+,Estonia,Tajikistan,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Tanzania,70,98,103,121,149,257,No service,No service,No service,No service,469,8-12 Days,8-12 Days,80,,Varamex Priority,Priority World,Allowed
+,Estonia,Thailand,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Togo,70,98,103,121,149,257,No service,No service,No service,No service,469,8-12 Days,8-12 Days,80,,Varamex Priority,Priority World,Allowed
+,Estonia,Tokelau,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Tonga,70,98,103,121,149,257,No service,No service,No service,No service,469,8-12 Days,8-12 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Transnistria,71,101,100,109,112,122,No service,No service,No service,No service,179,4 Days,8-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Trinidad and Tobago,66,92,96,111,132,234,No service,No service,No service,No service,437,8 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Tunisia,62,84,87,103,126,189,No service,No service,No service,No service,324,8 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Turkey,73,101,100,109,112,122,No service,No service,No service,No service,179,4 Days,8-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Turkmenistan,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Turks and Caicos Islands ,66,92,96,111,132,234,No service,No service,No service,No service,437,8 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Tuvalu,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,U.S. Virgin Islands ,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Uganda,70,98,103,121,149,257,No service,No service,No service,No service,469,8-12 Days,8-12 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Ukraine,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,United Arab Emirates,62,84,87,101,126,189,No service,No service,No service,No service,337,3 Days,3-4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,United Kingdom,55,79,82,84,87,92,No service,No service,No service,No service,147,2 Days,6 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,United States,59,89,93,109,129,191,No service,No service,No service,No service,342,3 Days,7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Uruguay,66,92,96,111,132,234,No service,No service,No service,No service,437,8 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Uzbekistan,70,98,103,121,149,257,No service,No service,No service,No service,469,8-12 Days,8-12 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Vanuatu,70,98,103,121,149,257,No service,No service,No service,No service,469,8-12 Days,8-12 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Vatican City,58,80,80,83,89,96,No service,No service,No service,No service,142,3 Days,7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Venezuela,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Vietnam,64,88,94,110,133,194,No service,No service,No service,No service,345,7 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Wallis and Futuna,70,98,103,121,149,257,No service,No service,No service,No service,469,8-12 Days,8-12 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Western Sahara,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Yemen,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Estonia,Zambia,70,98,103,121,149,257,No service,No service,No service,No service,469,6-7 Days,8-12 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Estonia,Zimbabwe,70,98,103,121,149,257,No service,No service,No service,No service,469,6-7 Days,8-12 Days,80,4/5*,Varamex Priority,Priority World,Allowed

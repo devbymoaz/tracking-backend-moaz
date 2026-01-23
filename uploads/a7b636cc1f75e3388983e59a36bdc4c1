@@ -1,0 +1,251 @@
+Type,Ship From ,Ship To,Doc 0.5kg,Paket 1kg,Paket 2kg,Box 5kg,Box 10kg,Box 15kg,Box 20kg,Box 25kg,Suitcase 10kg,Suitcase 20kg,Suitcase 30kg,Days ENV,Days PARCEL,Insurance,Rating,Courier,Service,Electronics & Any Liquids
+,Germany,,,,,,,,,,,,,,,,,,,
+,Germany,Afghanistan,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,,,
+,Germany,Albania,71,100,103,112,117,124,No service,No service,No service,No service,No service,3 Days,7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Algeria,57,84,87,101,126,189,No service,No service,No service,No service,No service,4 Days,6 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,American Samoa,67,98,103,121,No service,No service,No service,No service,No service,No service,No service,8 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Andorra,58,80,80,82,86,93,No service,No service,No service,No service,No service,3 Days,5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Angola,67,98,103,121,149,257,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Anguilla,63,92,96,111,132,234,No service,No service,No service,No service,No service,7 Days,8-10 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Antigua and Barbuda,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Argentina,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Armenia,57,84,87,101,126,189,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Aruba,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Australia,83,119,128,163,209,290,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Germany,Austria,53,65,65,67,71,78,88,93,93,125,127,1-2 Days,6 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Azerbaijan,57,84,87,101,126,189,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Bahamas,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Bahrain,57,84,87,101,126,189,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Bangladesh,57,84,87,101,126,189,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Barbados,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Belarus,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+EU,Germany,Belgium,52,64,67,69,72,77,85,92,119,127,132,1-2 Days,5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Belize,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Benin,70,98,103,121,149,257,No service,No service,No service,No service,No service,5 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Bermuda ,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Bhutan,57,84,87,101,126,189,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Bolivia,66,92,96,111,132,234,No service,No service,No service,No service,No service,8 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Bonaire,66,92,96,111,132,234,No service,No service,No service,No service,No service,8 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Bosnia and Herzegovina,71,100,103,112,117,124,No service,No service,No service,No service,No service,3 Days,4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Botswana,67,98,103,121,149,257,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Brazil,67,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,British Virgin Islands ,66,92,96,111,132,234,No service,No service,No service,No service,No service,8 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Brunei,57,84,87,101,126,189,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Germany,Bulgaria,58,74,77,79,82,95,103,112,139,147,152,1-2 Days,6 Dasys,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Burkina Faso,67,98,103,121,149,257,No service,No service,No service,No service,No service,7 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Burundi,67,98,103,121,149,257,No service,No service,No service,No service,No service,7 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Cambodia,61,89,93,110,133,193,No service,No service,No service,No service,No service,7 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Cameroon,67,98,103,121,149,257,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Canada,65,85,89,107,127,195,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Cape Verde,67,98,103,121,149,257,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Cayman Islands,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Central African Republic,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Chad,67,98,103,121,149,257,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Chile,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,China,54,116,119,132,146,211,No service,No service,No service,No service,No service,3-4 Days,4-5 Days,80,,Varamex Priority,Priority World,Allowed
+,Germany,Christmas Island,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Cocos Keeling Islands,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Colombia,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Comoros,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Congo,67,98,103,121,149,257,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Cook Islands,67,98,103,121,149,257,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Costa Rica,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Germany,Croatia,58,74,77,79,82,95,103,112,139,147,152,1-2 Days,6 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Cuba,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Curacao ,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Germany,Cyprus,75,95,95,102,109,123,135,147,177,187,209,1-2 Days,6-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Germany,Czech Republic,58,74,77,79,82,95,103,112,114,122,127,1-2 Days,4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Germany,Denmark,52,65,65,68,74,81,87,93,99,112,127,1-2 Days,5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Djibouti,67,98,103,121,149,257,No service,No service,No service,No service,No service,5-7 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Dominica,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Dominican Republic,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Democratic Republic of Congo,67,98,103,121,149,257,No service,No service,No service,No service,No service,2-4 Days,5-6 Dasy,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,East Timor,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Ecuador,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Egypt,57,84,87,101,126,189,No service,No service,No service,No service,No service,4 Days,5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,El Salvador,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Equatorial Guinea,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Eritrea,67,98,103,121,149,257,No service,No service,No service,No service,No service,5 Days,7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Germany,Estonia,57,73,73,77,79,94,103,111,104,126,146,1-2 Days,5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Eswatini,67,98,103,121,149,257,No service,No service,No service,No service,No service,7 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Ethiopia,67,98,103,121,149,257,No service,No service,No service,No service,No service,7 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Falkland Islands,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+EU,Germany,Faroe Islands ,48,65,65,68,74,81,87,93,99,112,127,1-2 Days,6 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Fiji,67,98,103,121,149,257,No service,No service,No service,No service,No service,7 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Germany,Finland,52,65,65,68,74,81,87,93,99,112,127,1-2 Days,6 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Germany,France,52,64,67,69,72,77,85,92,119,127,132,1-2 Days,6 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,French Guiana ,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,French Polynesia ,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Gabon,67,98,103,121,149,257,No service,No service,No service,No service,No service,6 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Gambia,67,98,103,121,149,257,No service,No service,No service,No service,No service,7 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Georgia,57,84,87,101,126,189,No service,No service,No service,No service,No service,4-6 Days,7-8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Germany,Germany,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,1-2 Days,5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Ghana,67,98,103,121,149,257,No service,No service,No service,No service,No service,7 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Gibraltar ,53,80,80,83,89,96,No service,No service,No service,No service,No service,3 Days,5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Germany,Greece Mainland,52,68,75,78,80,83,89,95,105,153,177,1-2 Days,5-7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Germany,Greece Islands,87,112,112,107,119,128,128,137,144,185,193,2-3 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Germany,Greenland,48,65,65,68,74,81,87,93,99,112,127,1-2 Days,5-7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Grenada,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Guadeloupe ,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Guam (US),67,98,103,121,149,257,No service,No service,No service,No service,No service,7 Days,8-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Guatemala,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Guernsey ,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Guinea,67,98,103,121,149,257,No service,No service,No service,No service,No service,5-7 Days,7-8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Guinea-Bissau,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Guyana,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Haiti,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Honduras,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Hong Kong,54,116,119,132,146,211,No service,No service,No service,No service,No service,3-4 Days,5-7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Germany,Hungary,57,74,77,79,82,95,103,112,139,147,152,1-2 Days,3 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Germany,Iceland,66,100,100,105,117,124,133,142,142,158,175,1-2 Days,5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,India,57,84,87,101,126,189,No service,No service,No service,No service,No service,4 Days,8-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Indonesia,64,89,94,110,134,194,No service,No service,No service,No service,No service,5 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Iran,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Ireland,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,1 Day,1 Day,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Iraq,67,98,103,121,149,257,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Isle of Man,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Israel,57,84,87,101,126,189,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Germany,Italy,53,65,65,68,74,81,87,93,99,112,127,1-2 Days,5-7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Germany,Italy Island,70,104,105,112,118,122,129,144,143,154,170,1-2 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Ivory Coast,67,98,103,121,149,257,No service,No service,No service,No service,No service,7 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Jamaica,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Japan,60,124,129,146,169,229,No service,No service,No service,No service,No service,7 Days,10-12 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Jersey ,57,84,87,101,126,189,No service,No service,No service,No service,No service,3 Days,6 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Jordan,57,84,87,101,126,189,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Kazakhstan,67,98,103,121,149,257,No service,No service,No service,No service,No service,3-5 Days,5-6 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Kenya,67,98,103,121,149,257,No service,No service,No service,No service,No service,3-5 Days,5-6 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Kiribati,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Kosovo,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Kuwait,57,84,87,101,126,189,No service,No service,No service,No service,No service,3 Days,4-5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Kyrgyzstan,67,98,103,121,149,257,No service,No service,No service,No service,No service,3-5 Days,4-5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Laos,64,89,94,110,134,194,No service,No service,No service,No service,No service,5 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Germany,Latvia,58,74,77,79,82,95,103,112,139,148,152,1-2 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Lebanon,57,84,87,101,126,189,No service,No service,No service,No service,No service,7 Days,8-10 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Lesotho,67,98,103,121,149,257,No service,No service,No service,No service,No service,7 Days,8-10 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Liberia,67,98,103,121,149,257,No service,No service,No service,No service,No service,7 Days,8-10 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Libya,57,84,87,101,126,189,No service,No service,No service,No service,No service,5 Days,8-10 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Germany,Liechtenstein,54,100,100,105,117,124,133,142,142,158,175,1-2 Days,3-4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Germany,Lithuania,58,74,77,79,82,95,103,112,114,122,127,1-2 Days,3-4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Germany,Luxembourg,54,74,77,82,84,87,99,106,133,139,180,1-2 Days,3-4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Macau,64,89,94,110,134,194,No service,No service,No service,No service,No service,5 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Madagascar,67,98,103,121,149,257,No service,No service,No service,No service,No service,3-5 Days,6-7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Malawi,67,98,103,121,149,257,No service,No service,No service,No service,No service,3-5 Days,6-7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Malaysia,60,89,94,110,134,194,No service,No service,No service,No service,No service,4 Days,6-7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Maldives,67,98,103,121,149,257,No service,No service,No service,No service,No service,3-5 Days,6-7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Mali,67,98,103,121,149,257,No service,No service,No service,No service,No service,3-5 Days,6-7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Germany,Malta,77,95,95,107,110,122,135,144,135,160,186,2-3 Days,8-10 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Marshall Islands,67,98,103,121,149,257,No service,No service,No service,No service,No service,7 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Martinique ,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Mauritania,67,98,103,121,149,257,No service,No service,No service,No service,No service,2-4 Days,5-7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Mauritius,67,98,103,121,149,257,No service,No service,No service,No service,No service,2-4 Days,5-7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Mayotte,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Mexico,63,92,96,111,132,234,No service,No service,No service,No service,No service,4 Days,8 Days,80,,Varamex Priority,Priority World,Allowed
+,Germany,Micronesia,67,98,103,121,149,257,No service,No service,No service,No service,No service,8 Days,10 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Moldova,71,101,100,109,112,122,No service,No service,No service,No service,No service,4 Days,5-7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Germany,Monaco,48,60,60,62,66,72,77,82,91,102,113,1-2 Days,3 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Mongolia,67,98,103,121,149,257,No service,No service,No service,No service,No service,6-8 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Montenegro,71,100,103,112,117,124,No service,No service,No service,No service,No service,5 Days,7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Montserrat ,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Morocco,57,84,87,101,126,189,No service,No service,No service,No service,No service,3 Days,5-7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Mozambique,67,98,103,121,149,257,No service,No service,No service,No service,No service,6-8 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Myanmar,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Namibia,67,98,103,121,149,257,No service,No service,No service,No service,No service,6-8 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Nauru,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Nepal,57,84,87,101,126,189,No service,No service,No service,No service,No service,6-8 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Germany,Netherlands,52,64,67,69,72,77,85,92,119,127,132,1-2 Days,4-5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,New Caledonia,67,98,103,121,149,257,No service,No service,No service,No service,No service,6-8 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,New Zealand,83,119,128,163,209,290,No service,No service,No service,No service,No service,6-8 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Nicaragua,63,92,96,111,132,234,No service,No service,No service,No service,No service,6-8 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Niger,67,98,103,121,149,257,No service,No service,No service,No service,No service,2-4 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Nigeria,67,98,103,121,149,257,No service,No service,No service,No service,No service,2-4 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Niue,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Norfolk Island,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,North Korea,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,North Macedonia,71,100,103,112,117,124,No service,No service,No service,No service,No service,4 Days,6-7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Northern Cyprus,71,100,103,112,117,124,No service,No service,No service,No service,No service,4 Days,6-7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Northern Mariana Islands,67,98,103,121,149,257,No service,No service,No service,No service,No service,6-8 Days,10-12 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Norway,59,115,115,120,132,139,No service,No service,No service,No service,No service,3 Days,4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Oman,57,84,87,101,126,189,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Pakistan,57,84,87,101,126,189,No service,No service,No service,No service,No service,6-8 Days,6-8 Days,80,4/5*,Varamex Priority,Passport - NO,Allowed
+,Germany,Palau,67,98,103,121,149,257,No service,No service,No service,No service,No service,6-8 Days,6-8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Palestine,57,84,87,101,126,189,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Panama,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Papua New Guinea,67,98,103,121,149,257,No service,No service,No service,No service,No service,6-8 Days,5-8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Paraguay,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Peru,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Philippines,64,89,94,110,134,194,No service,No service,No service,No service,No service,5 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Pitcairn Islands,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Poland,63,88,92,94,97,110,118,127,154,162,167,1-2 Days,4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Germany,Portugal,53,65,65,67,71,78,88,93,118,113,127,1-2 Days,4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Puerto Rico,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Qatar,57,84,87,101,126,189,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Reunion ,67,98,103,121,149,257,No service,No service,No service,No service,No service,6-8 Days,4-6 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Romania,62,89,92,94,97,110,No service,No service,No service,No service,No service,3 Days,4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Russia,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Rwanda,71,98,103,121,149,258,No service,No service,No service,No service,No service,7 Days,8-10 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Saint Barthelemy,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Saint Helena,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Saint Kitts and Nevis,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Saint Lucia,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Saint Martin,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Saint Pierre and Miquelon ,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Saint Vincent and the Grenadines,63,92,96,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Samoa,67,98,103,121,149,257,No service,No service,No service,No service,No service,6-8 Days,2-5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,San Marino,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Sao Tome and Principe,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Saudi Arabia,57,84,87,101,126,189,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Senegal,67,98,103,121,149,257,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Serbia,72,100,103,112,117,124,No service,No service,No service,No service,No service,6 Days,7-8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Seychelles,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Sierra Leone,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Singapore,64,89,94,110,134,194,No service,No service,No service,No service,No service,5 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Sint Eustatius,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Sint Maarten,63,92,95,111,132,234,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Germany,Slovakia,58,74,77,79,82,95,103,112,139,147,152,1-2 Days,4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Germany,Slovenia,58,74,77,79,82,95,103,112,139,147,152,1-2 Days,4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Solomon Islands,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Somalia,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,South Africa,66,92,95,111,132,234,No service,No service,No service,No service,No service,8 Days,10-12 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,South Korea,64,89,94,110,134,194,No service,No service,No service,No service,No service,5 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,South Sudan,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+EU,Germany,Spain,53,65,65,67,71,78,88,93,118,125,127,1-2 Days,8 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Germany,Mallorca,88,104,104,107,115,121,137,142,140,162,170,2-4 Days,9-11 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Germany,Canary Islands,88,117,118,120,129,134,150,155,154,175,181,2-4 Days,9-11 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Sri Lanka,64,89,94,110,134,194,No service,No service,No service,No service,No service,5 Days,7-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Sudan,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Suriname,66,92,96,111,132,234,No service,No service,No service,No service,No service,7 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Svalbard and Jan Mayen ,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,1-2 Days,,,,Varamex Priority,Priority World,Allowed
+,Germany,Sweden,58,80,80,83,89,96,No service,No service,No service,No service,No service,3 Days,6 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+EU,Germany,Switzerland,54,100,100,105,117,124,133,142,142,158,175,1-2 Days,3 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Syria,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Taiwan,64,89,94,110,134,194,No service,No service,No service,No service,348,5 Days,7-9 Days,80,,Varamex Priority,Priority World,Allowed
+,Germany,Tajikistan,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Tanzania,70,98,103,121,149,257,No service,No service,No service,No service,469,8-12 Days,8-12 Days,80,,Varamex Priority,Priority World,Allowed
+,Germany,Thailand,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Togo,70,98,103,121,149,257,No service,No service,No service,No service,469,8-12 Days,8-12 Days,80,,Varamex Priority,Priority World,Allowed
+,Germany,Tokelau,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Tonga,70,98,103,121,149,257,No service,No service,No service,No service,469,8-12 Days,8-12 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Transnistria,71,101,100,109,112,122,No service,No service,No service,No service,179,4 Days,8-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Trinidad and Tobago,66,92,96,111,132,234,No service,No service,No service,No service,437,8 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Tunisia,62,84,87,103,126,189,No service,No service,No service,No service,324,8 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Turkey,73,101,100,109,112,122,No service,No service,No service,No service,179,4 Days,8-9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Turkmenistan,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Turks and Caicos Islands ,66,92,96,111,132,234,No service,No service,No service,No service,437,8 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Tuvalu,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,U.S. Virgin Islands ,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Uganda,70,98,103,121,149,257,No service,No service,No service,No service,469,8-12 Days,8-12 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Ukraine,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,United Arab Emirates,62,84,87,101,126,189,No service,No service,No service,No service,337,3 Days,3-4 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,United Kingdom,55,79,82,84,87,92,No service,No service,No service,No service,147,2 Days,6 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,United States,59,89,93,109,129,191,No service,No service,No service,No service,342,3 Days,7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Uruguay,66,92,96,111,132,234,No service,No service,No service,No service,437,8 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Uzbekistan,70,98,103,121,149,257,No service,No service,No service,No service,469,8-12 Days,8-12 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Vanuatu,70,98,103,121,149,257,No service,No service,No service,No service,469,8-12 Days,8-12 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Vatican City,58,80,80,83,89,96,No service,No service,No service,No service,142,3 Days,7 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Venezuela,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Vietnam,64,88,94,110,133,194,No service,No service,No service,No service,345,7 Days,9 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Wallis and Futuna,70,98,103,121,149,257,No service,No service,No service,No service,469,8-12 Days,8-12 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Western Sahara,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Yemen,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,Varamex Priority,Priority World,Allowed
+,Germany,Zambia,70,98,103,121,149,257,No service,No service,No service,No service,469,6-7 Days,8-12 Days,80,4/5*,Varamex Priority,Priority World,Allowed
+,Germany,Zimbabwe,70,98,103,121,149,257,No service,No service,No service,No service,469,6-7 Days,8-12 Days,80,4/5*,Varamex Priority,Priority World,Allowed

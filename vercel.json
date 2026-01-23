@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/api/index"
+    }
+  ],
+  "env": {
+    "DB_HOST": "162.0.215.187",
+    "DB_USER": "votroiue",
+    "DB_PASSWORD": "replace_me",
+    "DB_NAME": "votroiue_courier",
+    "JWT_SECRET": "replace_me",
+    "STRIPE_SECRET_KEY": "replace_me",
+    "EASYSHIP_API_TOKEN": "replace_me",
+    "GOOGLE_CLIENT_ID": "replace_me",
+    "GOOGLE_CLIENT_SECRET": "replace_me",
+    "SQUARE_ACCESS_TOKEN": "replace_me"
+  }
+}

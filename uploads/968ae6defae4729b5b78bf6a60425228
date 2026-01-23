@@ -1,0 +1,251 @@
+Type,Ship From ,Ship To,Doc 0.5kg,Paket 1kg,Paket 2kg,Box 5kg,Box 10kg,Box 15kg,Box 20kg,Box 25kg,Suitcase 10kg,Suitcase 20kg,Suitcase 30kg,Days ENV,Days PARCEL,Insurance,Rating,Courier,Service
+,,,,,,,,,,,,,,,,,,,
+,Ireland,Afghanistan,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,,
+,Ireland,Albania,81,95,98,107,112,119,No service,No service,No service,No service,No service,8 Days,9 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Algeria,67,79,82,96,121,184,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,American Samoa (US),77,93,98,116,No service,No service,No service,No service,No service,No service,No service,8 Days,9 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Andorra,68,75,75,77,81,88,No service,No service,No service,No service,No service,6 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Angola,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Anguilla,73,87,91,106,127,229,No service,No service,No service,No service,No service,7 Days,12-14 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Antigua and Barbuda,73,87,91,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Argentina,73,87,91,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Armenia,67,79,82,96,121,184,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Aruba (Netherlands),73,87,91,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Australia,93,114,123,158,204,285,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+EU,Ireland,Austria,63,65,65,67,71,78,88,93,93,125,127,3 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Azerbaijan,67,79,82,96,121,184,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Bahamas,73,87,91,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Bahrain,67,79,82,96,121,184,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Bangladesh,67,79,82,96,121,184,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Barbados,73,87,91,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Belarus,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+EU,Ireland,Belgium,62,64,67,69,72,77,85,92,119,127,132,3 Days,5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Belize,73,87,91,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Benin,80,93,98,116,144,252,No service,No service,No service,No service,No service,5 Days,9 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Bermuda (BOT),73,87,91,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Bhutan,67,79,82,96,121,184,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Bolivia,76,87,91,106,127,229,No service,No service,No service,No service,No service,8 Days,9 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Bonaire,76,87,91,106,127,229,No service,No service,No service,No service,No service,8 Days,9 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Bosnia and Herzegovina,81,95,98,107,112,119,No service,No service,No service,No service,No service,3 Days,4 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Botswana,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Brazil,77,87,91,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,British Virgin Islands,76,87,91,106,127,229,No service,No service,No service,No service,No service,8 Days,9 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Brunei,67,79,82,96,121,184,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,FedEx Priority,Varamex Priority
+EU,Ireland,Bulgaria,68,74,77,79,82,95,103,112,139,147,152,4 Days,12 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Burkina Faso,77,93,98,116,144,252,No service,No service,No service,No service,No service,9 Days,10-12 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Burundi,77,93,98,116,144,252,No service,No service,No service,No service,No service,9 Days,10-12 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Cambodia,71,84,88,105,128,188,No service,No service,No service,No service,No service,7 Days,10-13 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Cameroon,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Canada,75,80,84,102,122,190,No service,No service,No service,No service,No service,2-4 Days,6-7 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Cape Verde,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Cayman Islands ,73,87,91,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Central African Republic,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,Chad,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Chile,73,87,91,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,China,64,111,114,127,141,206,No service,No service,No service,No service,No service,3-4 Days,10 Days,80,,FedEx Priority,Varamex Priority
+,Ireland,Christmas Island,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,Cocos (Keeling) Islands,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,Colombia,73,87,91,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Comoros,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,Congo,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Cook Islands,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Costa Rica,73,87,91,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+EU,Ireland,Croatia,68,74,77,79,82,95,103,112,139,147,152,4 Days,12 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Cuba,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,Curacao,73,87,91,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+EU,Ireland,Cyprus,85,95,95,102,109,123,135,147,177,187,209,4 Days,6-9 Days,80,4/5*,FedEx Priority,Varamex Priority
+EU,Ireland,Czech Republic,68,74,77,79,82,95,103,112,114,122,127,4 Days,12 Days,80,4/5*,FedEx Priority,Varamex Priority
+EU,Ireland,Denmark,62,65,65,68,74,81,87,93,99,112,127,3 Days,6 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Djibouti,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Dominica,73,87,91,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Dominican Republic,73,87,91,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,DR Congo,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,East Timor,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,Ecuador,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,Egypt,67,79,82,96,121,184,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,El Salvador,73,87,91,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Equatorial Guinea,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,Eritrea,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+EU,Ireland,Estonia,67,73,73,77,79,94,103,111,104,126,146,3 Days,10-12 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Eswatini,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Ethiopia,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Falkland Islands ,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+EU,Ireland,Faroe Islands (Denmark),58,65,65,68,74,81,87,93,99,112,127,3 Days,6 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Fiji,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+EU,Ireland,Finland,62,65,65,68,74,81,87,93,99,112,127,3 Days,6 Days,80,4/5*,FedEx Priority,Varamex Priority
+EU,Ireland,France,62,64,67,69,72,77,85,92,119,127,132,3 Days,6 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,French Guiana (France),73,87,91,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,French Polynesia (France),73,87,91,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Gabon,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Gambia,77,93,98,116,144,252,No service,No service,No service,No service,No service,9 Days,10-12 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Georgia,67,79,82,96,121,184,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,FedEx Priority,Varamex Priority
+EU,Ireland,Germany,62,64,67,69,72,77,85,92,119,127,132,3 Days,5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Ghana,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Gibraltar,63,75,75,78,84,91,No service,No service,No service,No service,No service,3 Days,6 Days,80,4/5*,FedEx Priority,Varamex Priority
+EU,Ireland,Greece Mainland,62,68,75,78,80,83,89,95,105,153,177,4 Days,8-10 Days,80,4/5*,FedEx Priority,Varamex Priority
+EU,Ireland,Greece Islands,97,112,112,107,119,128,128,137,144,185,193,6 Days,9-11 Days,80,4/5*,FedEx Priority,Varamex Priority
+EU,Ireland,Greenland (Denmark),58,65,65,68,74,81,87,93,99,112,127,3 Days,6 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Grenada,73,87,91,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Guadeloupe (France),73,87,91,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Guam (US),77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Guatemala,73,87,91,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Guernsey,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,Guinea,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Guinea-Bissau,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,Guyana,73,87,91,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Haiti,73,87,91,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Honduras,73,87,91,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Hong Kong,64,111,114,127,141,206,No service,No service,No service,No service,No service,3-4 Days,10 Days,80,4/5*,FedEx Priority,Varamex Priority
+EU,Ireland,Hungary,67,74,77,79,82,95,103,112,139,147,152,3 Days,6-9 Days,80,4/5*,FedEx Priority,Varamex Priority
+EU,Ireland,Iceland,76,100,100,105,117,124,133,142,142,158,175,4 Days,9 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,India,67,79,82,96,121,184,No service,No service,No service,No service,No service,4 Days,6-9 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Indonesia,74,84,89,105,129,189,No service,No service,No service,No service,No service,5 Days,7-9 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Iran,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+N/A,Ireland,Ireland,68,70,70,70,70,70,No service,No service,No service,No service,No service,1 Day,1 Day,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Iraq,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Isle of Man,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Israel,67,79,82,96,121,184,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,FedEx Priority,Varamex Priority
+EU,Ireland,Italy,63,65,65,68,74,81,87,93,99,112,127,3 Days,7 Days,80,4/5*,FedEx Priority,Varamex Priority
+EU,Ireland,Italy Island,80,104,105,112,118,122,129,144,143,154,170,8 Days,12-14 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Ivory Coast,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Jamaica,73,87,91,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Japan,70,119,124,141,164,224,No service,No service,No service,No service,No service,9 Days,10-12 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Jersey ,67,79,82,96,121,184,No service,No service,No service,No service,No service,3 Days,6 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Jordan,67,79,82,96,121,184,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Kazakhstan,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Kenya,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Kiribati,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,Kosovo,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,Kuwait,67,79,82,96,121,184,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Kyrgyzstan,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Laos,74,84,89,105,129,189,No service,No service,No service,No service,No service,5 Days,7-9 Days,80,4/5*,FedEx Priority,Varamex Priority
+EU,Ireland,Latvia,68,74,77,79,82,95,103,112,139,148,152,4 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Lebanon,67,79,82,96,121,184,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Lesotho,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Liberia,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Libya,67,79,82,96,121,184,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,FedEx Priority,Varamex Priority
+EU,Ireland,Liechtenstein,64,100,100,105,117,124,133,142,142,158,175,3 Days,10-12 Days,80,4/5*,FedEx Priority,Varamex Priority
+EU,Ireland,Lithuania,68,74,77,79,82,95,103,112,114,122,127,3 Days,6 Days,80,4/5*,FedEx Priority,Varamex Priority
+EU,Ireland,Luxembourg,64,74,77,82,84,87,99,106,133,139,180,3 Days,6 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Macau,74,84,89,105,129,189,No service,No service,No service,No service,No service,5 Days,7-9 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Madagascar,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Malawi,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Malaysia,70,84,89,105,129,189,No service,No service,No service,No service,No service,4 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Maldives,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Mali,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+EU,Ireland,Malta,87,95,95,107,110,122,135,144,135,160,186,2-3 Days,8-10 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Marshall Islands,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Martinique (France),73,87,91,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Mauritania,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Mauritius,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Mayotte (France),No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,Mexico,73,87,91,106,127,229,No service,No service,No service,No service,No service,4 Days,8 Days,80,,FedEx Priority,Varamex Priority
+,Ireland,Micronesia,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Moldova,81,96,95,104,107,117,No service,No service,No service,No service,No service,4 Days,8-9 Days,80,4/5*,FedEx Priority,Varamex Priority
+EU,Ireland,Monaco,58,60,60,62,66,72,77,82,91,102,113,2 Days,4 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Mongolia,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Montenegro,81,95,98,107,112,119,No service,No service,No service,No service,No service,5 Days,8-11 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Montserrat (BOT),73,87,91,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Morocco,67,79,82,96,121,184,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Mozambique,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Myanmar,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,Namibia,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Nauru,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,Nepal,67,79,82,96,121,184,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,FedEx Priority,Varamex Priority
+EU,Ireland,Netherlands,62,64,67,69,72,77,85,92,119,127,132,2-3 Days,4-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,New Caledonia (France),77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,New Zealand,93,114,123,158,204,285,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Nicaragua,73,87,91,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Niger,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Nigeria,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Niue,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,Norfolk Island (Australia),No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,North Korea,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,North Macedonia,81,95,98,107,112,119,No service,No service,No service,No service,No service,4 Days,9-13 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Northern Cyprus,81,95,98,107,112,119,No service,No service,No service,No service,No service,4 Days,9-13 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Northern Mariana Islands (US),77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Norway,69,110,110,115,127,134,No service,No service,No service,No service,No service,3 Days,10-12 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Oman,67,79,82,96,121,184,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Pakistan,67,79,82,96,121,184,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Palau,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Palestine,67,79,82,96,121,184,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Panama,73,87,91,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Papua New Guinea,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Paraguay,73,87,91,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Peru,73,87,91,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Philippines,74,84,89,105,129,189,No service,No service,No service,No service,No service,5 Days,7-9 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Pitcairn Islands (BOT),No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+N/A,Ireland,Poland,73,83,87,89,92,105,113,122,149,157,162,4 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+EU,Ireland,Portugal,63,65,65,67,71,78,88,93,118,113,127,3 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Puerto Rico (US),73,87,91,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Qatar,67,79,82,96,121,184,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Réunion (France),77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Romania,72,84,87,89,92,105,No service,No service,No service,No service,No service,3 Days,10-12 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Russia,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,Rwanda,81,93,98,116,144,253,No service,No service,No service,No service,No service,7 Days,12-14 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Saint Barthélemy (France),No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,Saint Helena,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,Saint Kitts and Nevis,73,87,91,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Saint Lucia,73,87,91,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Saint Martin (France),73,87,91,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Saint Pierre and Miquelon,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,Saint Vincent and the Grenadines,73,87,91,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Samoa,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,San Marino,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,São Tomé and Príncipe,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,Saudi Arabia,67,79,82,96,121,184,No service,No service,No service,No service,No service,3 Days,3-4 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Senegal,77,93,98,116,144,252,No service,No service,No service,No service,No service,2-4 Days,2-5 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Serbia,82,95,98,107,112,119,No service,No service,No service,No service,No service,8 Days,9 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Seychelles,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,Sierra Leone,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,Singapore,74,84,89,105,129,189,No service,No service,No service,No service,No service,5 Days,7-9 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Sint Eustatius (Netherlands),No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,Sint Maarten (Netherlands),73,87,90,106,127,229,No service,No service,No service,No service,No service,5 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+EU,Ireland,Slovakia,68,74,77,79,82,95,103,112,139,147,152,4 Days,12 Days,80,4/5*,FedEx Priority,Varamex Priority
+EU,Ireland,Slovenia,68,74,77,79,82,95,103,112,139,147,152,4 Days,12 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Solomon Islands,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,Somalia,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,South Africa,76,87,90,106,127,229,No service,No service,No service,No service,No service,8 Days,10-12 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,South Korea,74,84,89,105,129,189,No service,No service,No service,No service,No service,5 Days,7-9 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,South Sudan,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+EU,Ireland,Spain Mainland,63,65,65,67,71,78,88,93,118,125,127,3 Days,8 Days,80,4/5*,FedEx Priority,Varamex Priority
+EU,Ireland,"Spain Mallorca, Menorca",98,104,104,107,115,121,137,142,140,162,170,4 Days,9-11 Days,80,4/5*,FedEx Priority,Varamex Priority
+EU,Ireland,Spain Canary Islands,98,117,118,120,129,134,150,155,154,175,181,4 Days,9-11 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Sri Lanka,74,84,89,105,129,189,No service,No service,No service,No service,No service,5 Days,7-9 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Sudan,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,Suriname,76,87,91,106,127,229,No service,No service,No service,No service,No service,8 Days,9 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Svalbard and Jan Mayen,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,Sweden,68,75,75,78,84,91,No service,No service,No service,No service,No service,3 Days,6 Days,80,4/5*,FedEx Priority,Varamex Priority
+EU,Ireland,Switzerland,64,100,100,105,117,124,133,142,142,158,175,3 Days,10-12 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Syria,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,Taiwan,74,84,89,105,129,189,No service,No service,No service,No service,343,5 Days,7-9 Days,80,,FedEx Priority,Varamex Priority
+,Ireland,Tajikistan,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,Tanzania,80,93,98,116,144,252,No service,No service,No service,No service,464,8-12 Days,8-12 Days,80,,FedEx Priority,Varamex Priority
+,Ireland,Thailand,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,Togo,80,93,98,116,144,252,No service,No service,No service,No service,464,8-12 Days,8-12 Days,80,,FedEx Priority,Varamex Priority
+,Ireland,Tokelau ,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,Tonga,80,93,98,116,144,252,No service,No service,No service,No service,464,8-12 Days,8-12 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Transnistria,81,96,95,104,107,117,No service,No service,No service,No service,174,4 Days,8-9 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Trinidad and Tobago,76,87,91,106,127,229,No service,No service,No service,No service,432,8 Days,9 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Tunisia,72,79,82,98,121,184,No service,No service,No service,No service,319,8 Days,9 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Turkey,83,96,95,104,107,117,No service,No service,No service,No service,174,4 Days,8-9 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Turkmenistan,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,Turks and Caicos Islands ,76,87,91,106,127,229,No service,No service,No service,No service,432,8 Days,9 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Tuvalu,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,U.S. Virgin Islands (US),No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,Uganda,80,93,98,116,144,252,No service,No service,No service,No service,464,8-12 Days,8-12 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Ukraine,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,United Arab Emirates,72,79,82,96,121,184,No service,No service,No service,No service,332,3 Days,3-4 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,United Kingdom,65,74,77,79,82,87,No service,No service,No service,No service,142,3 Days,6 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,United States,69,84,88,104,124,186,No service,No service,No service,No service,337,3 Days,7 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Uruguay,76,87,91,106,127,229,No service,No service,No service,No service,432,8 Days,9 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Uzbekistan,80,93,98,116,144,252,No service,No service,No service,No service,464,8-12 Days,8-12 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Vanuatu,80,93,98,116,144,252,No service,No service,No service,No service,464,8-12 Days,8-12 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Vatican City,68,75,75,78,84,91,No service,No service,No service,No service,137,3 Days,7 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Venezuela,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,Vietnam,74,83,89,105,128,189,No service,No service,No service,No service,340,7 Days,9 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Wallis and Futuna (France),80,93,98,116,144,252,No service,No service,No service,No service,464,8-12 Days,8-12 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Western Sahara,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,Yemen,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,No service,,,,,FedEx Priority,Varamex Priority
+,Ireland,Zambia,80,93,98,116,144,252,No service,No service,No service,No service,464,8-12 Days,8-12 Days,80,4/5*,FedEx Priority,Varamex Priority
+,Ireland,Zimbabwe,80,93,98,116,144,252,No service,No service,No service,No service,464,8-12 Days,8-12 Days,50,4/5*,FedEx Priority,Varamex Priority
