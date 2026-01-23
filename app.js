@@ -639,4 +639,23 @@ app.get("/", (req, res) => {
   res.json({ message: "Hello From server with Stripe integration" });
 });
 
+// Database connection test route
+app.get("/api/v1/test-db", async (req, res) => {
+  try {
+    const connection = await db.getConnection();
+    await connection.ping();
+    connection.release();
+    res.json({ status: "success", message: "Database connection successful" });
+  } catch (error) {
+    console.error("Database connection failed:", error);
+    res.status(500).json({
+      status: "error",
+      message: "Database connection failed",
+      error: error.message,
+      code: error.code,
+      details: "Check your Vercel logs for more info. Ensure IP whitelisting in Namecheap cPanel > Remote MySQL."
+    });
+  }
+});
+
 module.exports = app;
