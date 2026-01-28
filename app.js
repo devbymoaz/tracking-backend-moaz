@@ -89,9 +89,11 @@ const branded = require("./routes/brandedBoxesRoutes.js");
 const shippingLabelRouter = require("./routes/shipping_label.routes");
 const emailRouter = require("./routes/email.routes");
 const amazonAddressRouter = require("./routes/amazonAddress.routes");
+const amazonCountryPriceRouter = require("./routes/amazonCountryPrice.routes");
 const { updateOrderDeliveryState } = require("./controllers/webhook/orderDetialsUpdate.js");
 
 // Use existing routes
+app.use("/api/v1", amazonCountryPriceRouter);
 app.use("/api/v1", amazonAddressRouter);
 app.use("/api/v1", userRouter);
 app.use("/api/v1", orderRouter);
