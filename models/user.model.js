@@ -44,7 +44,7 @@ const createUser = async (
   try {
     const hashedPassword = await bcrypt.hash(password, 10);
     const [result] = await db.query(
-      "INSERT INTO users (name, email, phone, password, role, vat, profile_image, is_activated) VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
+      "INSERT INTO users (name, email, phone, password, role, vat, profile_image, is_activated, address) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)",
       [
         name,
         email,
@@ -54,6 +54,7 @@ const createUser = async (
         vat,
         profileImage,
         is_activated,
+        "", // Default empty address
       ]
     );
 

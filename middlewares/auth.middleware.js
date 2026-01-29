@@ -16,13 +16,13 @@ const verifyJWT = asyncHandler(async (req, _, next) => {
     // decode the JWT token
     const decodedToken = jwt.verify(token, process.env.ACCESS_TOKEN_SECRET);
 
-    // Assuming the decoded token contains user ID (_id)
+    // Assuming the decoded token contains user ID (id)
     const [userResult] = await db.query(
       "SELECT id,name,email,role FROM users WHERE id = ?",
-      [decodedToken._id]
+      [decodedToken.id]
     );
 
-    if (!userResult.length === 0) {
+    if (userResult.length === 0) {
       throw new ApiError(401, "Invalid Access Token");
     }
     const user = userResult[0];

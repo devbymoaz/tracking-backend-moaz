@@ -582,6 +582,18 @@ const postOrder = asyncHandler(async (req, res, next) => {
   order_items = parseIfString(order_items);
   order_outside_items = parseIfString(order_outside_items);
 
+  // Set default values for missing fields to avoid database errors
+  tracking_page_url = tracking_page_url || "";
+  
+  // Use authenticated user details if available
+  if (req.user) {
+    email = email || req.user.email;
+    username = username || req.user.name;
+    role = role || req.user.role;
+  }
+  
+  status = status || "pending";
+
   console.log(total_price, "CUSTOME ORDER NUMBER HEREEEEEEEEEEEE");
   const data = await createOrder(
     email,

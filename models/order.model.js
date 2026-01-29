@@ -71,8 +71,8 @@ const createOrder = async (
     };
     const [result] = await db.query(
       `INSERT INTO orders 
-        (email, username, role, customer_details, delivery_details, billing_details, status, markup, tracking_page_url, pickup_state, easyship_shipment_id, delivery_state, meta_data, custom_order_number, created_at, collection_address, collection_date, notes, payment, boxes_data,raw_data, total_price, upload_doc)
-      VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
+        (email, username, role, customer_details, delivery_details, billing_details, status, markup, tracking_page_url, custom_tracking_url, custom_remarks, custom_shipping_label, shipping_reason, custom_tracking_number, pickup_state, easyship_shipment_id, delivery_state, meta_data, custom_order_number, created_at, collection_address, collection_date, notes, payment, boxes_data,raw_data, total_price, upload_doc)
+      VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
       [
         email,
         username,
@@ -83,6 +83,11 @@ const createOrder = async (
         status,
         markup,
         tracking_page_url,
+        "", // Default empty string for custom_tracking_url
+        "", // Default empty string for custom_remarks
+        "", // Default empty string for custom_shipping_label
+        "", // Default empty string for shipping_reason
+        "", // Default empty string for custom_tracking_number
         pickup_state,
         easyship_shipment_id,
         delivery_state,
