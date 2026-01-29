@@ -582,8 +582,7 @@ const postOrder = asyncHandler(async (req, res, next) => {
   order_items = parseIfString(order_items);
   order_outside_items = parseIfString(order_outside_items);
 
-  // Set default values for missing fields to avoid database errors
-  tracking_page_url = tracking_page_url || "";
+  tracking_page_url = tracking_page_url || null;
   
   // Use authenticated user details if available
   if (req.user) {

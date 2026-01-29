@@ -65,10 +65,10 @@ const createOrder = async (
     }
 
     const formattedCollectionDate = collection_date.toFormat("yyyy-MM-dd");
-    const raw_data = {
-      order_items: order_items,
-      order_outside_items: order_outside_items,
-    };
+    const raw_data =
+      order_items || order_outside_items
+        ? { order_items: order_items, order_outside_items: order_outside_items }
+        : null;
     const [result] = await db.query(
       `INSERT INTO orders 
         (email, sender_email, username, role, customer_details, delivery_details, billing_details, status, markup, tracking_page_url, custom_tracking_url, custom_remarks, custom_shipping_label, shipping_reason, custom_tracking_number, pickup_state, easyship_shipment_id, delivery_state, meta_data, custom_order_number, created_at, collection_address, collection_date, notes, payment, boxes_data,raw_data, total_price, upload_doc)
@@ -83,26 +83,25 @@ const createOrder = async (
         JSON.stringify(billing_details),
         status,
         markup,
-        tracking_page_url,
-        "", // Default empty string for custom_tracking_url
-        "", // Default empty string for custom_remarks
-        "", // Default empty string for custom_shipping_label
-        "", // Default empty string for shipping_reason
-        "", // Default empty string for custom_tracking_number
+        tracking_page_url || null,
+        null,
+        null,
+        null,
+        null,
         pickup_state,
         easyship_shipment_id,
         delivery_state,
-        JSON.stringify(meta_data),
+        meta_data ? JSON.stringify(meta_data) : null,
         custom_order_number,
         dublinTime,
         collection_address,
         formattedCollectionDate,
         notes,
         payment,
-        JSON.stringify(boxes_data),
-        JSON.stringify(raw_data),
-        total_price,
-        upload_doc,
+        boxes_data ? JSON.stringify(boxes_data) : null,
+        raw_data ? JSON.stringify(raw_data) : null,
+        total_price || 0,
+        upload_doc || null,
       ]
     );
 
