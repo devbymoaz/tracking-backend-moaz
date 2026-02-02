@@ -53,6 +53,9 @@ const addInvoiceUrl = (orders, req) => {
       ? `invoice-${order.custom_order_number}.pdf`
       : null;
     const idName = `invoice-${order.id}.pdf`;
+    const easyshipName = order.easyship_shipment_id
+      ? `invoice-${order.easyship_shipment_id}.pdf`
+      : null;
 
     let finalFileName = customName || idName;
     let exists = false;
@@ -65,6 +68,14 @@ const addInvoiceUrl = (orders, req) => {
     // Check if id name exists
     else if (fs.existsSync(path.join(invoicesDir, idName))) {
       finalFileName = idName;
+      exists = true;
+    }
+    // Check if easyship name exists
+    else if (
+      easyshipName &&
+      fs.existsSync(path.join(invoicesDir, easyshipName))
+    ) {
+      finalFileName = easyshipName;
       exists = true;
     }
 
@@ -1205,24 +1216,29 @@ const processOrders = asyncHandler(async (req, res, next) => {
       if (data.shipments.length < 100) {
         hasMoreData = false;
         await db.query(`UPDATE settings SET current_page = 1`);
-        return;
       } else {
         currentPage++;
       }
 
       const [existingOrders] = await db.query(
-        `SELECT easyship_shipment_id FROM orders`
+        `SELECT id, easyship_shipment_id, custom_order_number FROM orders`
       );
-      const existingShipmentIds = existingOrders.map(
-        (order) => order.easyship_shipment_id
+      const existingOrdersMap = new Map(
+        existingOrders.map((o) => [o.easyship_shipment_id, o])
       );
+
       for (const order of data.shipments) {
-        if (existingShipmentIds.includes(order.easyship_shipment_id)) {
+        if (existingOrdersMap.has(order.easyship_shipment_id)) {
+          const dbOrder = existingOrdersMap.get(order.easyship_shipment_id);
           await db.query(
             `UPDATE orders SET meta_data = ? WHERE easyship_shipment_id = ?`,
             [JSON.stringify(order), order.easyship_shipment_id]
           );
-          existingOrdersDetails.push(order);
+          existingOrdersDetails.push({
+            ...order,
+            id: dbOrder.id,
+            custom_order_number: dbOrder.custom_order_number,
+          });
         } else {
           const newOrder = await createOrder(
             "admin@gmail.com",
@@ -1251,10 +1267,13 @@ const processOrders = asyncHandler(async (req, res, next) => {
       await db.query(`UPDATE settings SET current_page = ?`, [currentPage]);
     }
 
+    const processedExisting = addInvoiceUrl(existingOrdersDetails, req);
+    const processedCreated = addInvoiceUrl(ordersToCreate, req);
+
     return res.status(200).json({
       message: "Orders processed successfully.",
-      existingOrders: existingOrdersDetails,
-      createdOrders: ordersToCreate,
+      existingOrders: processedExisting,
+      createdOrders: processedCreated,
     });
   } catch (error) {
     console.error("Error processing orders:", error.message);
