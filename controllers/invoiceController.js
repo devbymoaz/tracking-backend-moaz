@@ -28,7 +28,7 @@ const generateInvoiceController = asyncHandler(async (req, res, next) => {
       throw new ApiError(400, "Missing required fields.");
     }
 
-    const invoicesDir = path.join(__dirname, "../saleinvoices");
+    const invoicesDir = path.join(__dirname, "../invoices");
     if (!fs.existsSync(invoicesDir)) {
       fs.mkdirSync(invoicesDir, { recursive: true });
     }
@@ -549,7 +549,7 @@ const generateInvoiceController = asyncHandler(async (req, res, next) => {
     console.log("PDF generated successfully at:", filePath);
 
     const baseUrl = `${req.protocol}://${req.get("host")}`;
-    const fileUrl = `${baseUrl}/saleinvoices/${fileName}`;
+    const fileUrl = `${baseUrl}/invoices/${fileName}`;
 
     res.json({
       message: "Commercial Invoice generated successfully",
