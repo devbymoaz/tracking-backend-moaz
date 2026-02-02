@@ -546,6 +546,8 @@ const generateInvoiceController = asyncHandler(async (req, res, next) => {
 
     doc.end();
 
+    console.log("PDF generated successfully at:", filePath);
+
     const baseUrl = `${req.protocol}://${req.get("host")}`;
     const fileUrl = `${baseUrl}/invoices/${fileName}`;
 
@@ -1219,6 +1221,8 @@ const generateSaleInvoiceController = asyncHandler(async (req, res, next) => {
     });
 
     doc.end();
+
+    console.log("Sale PDF generated successfully at:", filePath);
 
     const baseUrl = `${req.protocol}://${req.get("host")}`;
     const fileUrl = `${baseUrl}/saleinvoices/${fileName}`;

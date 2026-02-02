@@ -60,6 +60,14 @@ app.use(
   "/saleinvoices",
   express.static(path.join(__dirname, "./saleinvoices"))
 );
+
+// Fallback for missing invoices
+app.get("/saleinvoices/:filename", (req, res) => {
+  res.status(404).json({
+    status: "error",
+    message: "Invoice file not found. Please regenerate the invoice for this order."
+  });
+});
 app.use(
   "/uploads/shipping_label",
   express.static(path.join(__dirname, "./uploads/shipping_labels"))
