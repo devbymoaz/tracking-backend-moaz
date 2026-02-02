@@ -1,6 +1,4 @@
 const { db } = require("../db");
-const fs = require("fs");
-const path = require("path");
 const {
   getAllOrders,
   createOrder,
@@ -40,56 +38,6 @@ const getCurrentOrder = async (orderId) => {
     throw new ApiError(500, "Database error occurred while fetching order");
   }
 };
-
-const addInvoiceUrl = (orders, req) => {
-  if (!orders || !Array.isArray(orders)) return orders;
-
-  const baseUrl = `${req.protocol}://${req.get("host")}`;
-  const invoicesDir = path.join(__dirname, "../saleinvoices");
-
-  return orders.map((order) => {
-    // Determine preferred filename (custom_order_number > id)
-    const customName = order.custom_order_number
-      ? `invoice-${order.custom_order_number}.pdf`
-      : null;
-    const idName = `invoice-${order.id}.pdf`;
-    const easyshipName = order.easyship_shipment_id
-      ? `invoice-${order.easyship_shipment_id}.pdf`
-      : null;
-
-    let finalFileName = customName || idName;
-    let exists = false;
-
-    // Check if custom name exists
-    if (customName && fs.existsSync(path.join(invoicesDir, customName))) {
-      finalFileName = customName;
-      exists = true;
-    }
-    // Check if id name exists
-    else if (fs.existsSync(path.join(invoicesDir, idName))) {
-      finalFileName = idName;
-      exists = true;
-    }
-    // Check if easyship name exists
-    else if (
-      easyshipName &&
-      fs.existsSync(path.join(invoicesDir, easyshipName))
-    ) {
-      finalFileName = easyshipName;
-      exists = true;
-    }
-
-    // If neither exists, we stick with the preferred one (customName if available)
-    // to allow the user to click and see the "Not Found" error (which prompts regeneration).
-
-    return {
-      ...order,
-      invoice_url: `${baseUrl}/saleinvoices/${finalFileName}`,
-      invoice_exists: exists,
-    };
-  });
-};
-
 // const fetchAllOrders = asyncHandler(async (req, res, next) => {
 //   const data = await getAllOrders();
 
@@ -99,8 +47,7 @@ const addInvoiceUrl = (orders, req) => {
 // });
 
 const fetchAllOrders = asyncHandler(async (req, res, next) => {
-  let data = await getAllOrders();
-  data = addInvoiceUrl(data, req);
+  const data = await getAllOrders();
 
   return res
     .status(200)
@@ -110,8 +57,7 @@ const fetchAllOrders = asyncHandler(async (req, res, next) => {
 
 const fetchOrdersByUser = asyncHandler(async (req, res, next) => {
   const { email } = req.query;
-  let data = await getAllOrdersByEmail(email);
-  data = addInvoiceUrl(data, req);
+  const data = await getAllOrdersByEmail(email);
 
   return res
     .status(200)
@@ -125,10 +71,6 @@ const fetchFilteredOrders = asyncHandler(async (req, res, next) => {
 
   const data = await getFilteredOrders(page, limit);
 
-  if (data.orders) {
-    data.orders = addInvoiceUrl(data.orders, req);
-  }
-
   return res
     .status(200)
     .json(
@@ -141,10 +83,6 @@ const fetchOrdersWithPickupState = asyncHandler(async (req, res, next) => {
   const limit = 75; // 10 records per page
 
   const data = await getOrdersWithPickupState(page, limit);
-
-  if (data.orders) {
-    data.orders = addInvoiceUrl(data.orders, req);
-  }
 
   return res
     .status(200)
@@ -566,8 +504,7 @@ const updateOrder_status = async (orderId, collection_date) => {
   }
 };
 const fetchCustomOrders = asyncHandler(async (req, res, next) => {
-  let data = await getCustomOrders();
-  data = addInvoiceUrl(data, req);
+  const data = await getCustomOrders();
 
   return res
     .status(200)
@@ -738,8 +675,7 @@ const deleteAnOrder = asyncHandler(async (req, res, next) => {
 const getTodayOrders = async (req, res, next) => {
   try {
     const today = new Date().toISOString().split("T")[0];
-    let orders = await getOrdersByCollectionDate(today);
-    orders = addInvoiceUrl(orders, req);
+    const orders = await getOrdersByCollectionDate(today);
 
     res.status(200).json({
       success: true,
@@ -774,11 +710,6 @@ const fetchOrderById = asyncHandler(async (req, res, next) => {
 
   if (!order) {
     throw new ApiError(404, `Order with ID ${id} not found.`);
-  }
-
-  if (order.order) {
-    const [processedOrder] = addInvoiceUrl([order.order], req);
-    order.order = processedOrder;
   }
 
   // Return success response
@@ -1216,29 +1147,24 @@ const processOrders = asyncHandler(async (req, res, next) => {
       if (data.shipments.length < 100) {
         hasMoreData = false;
         await db.query(`UPDATE settings SET current_page = 1`);
+        return;
       } else {
         currentPage++;
       }
 
       const [existingOrders] = await db.query(
-        `SELECT id, easyship_shipment_id, custom_order_number FROM orders`
+        `SELECT easyship_shipment_id FROM orders`
       );
-      const existingOrdersMap = new Map(
-        existingOrders.map((o) => [o.easyship_shipment_id, o])
+      const existingShipmentIds = existingOrders.map(
+        (order) => order.easyship_shipment_id
       );
-
       for (const order of data.shipments) {
-        if (existingOrdersMap.has(order.easyship_shipment_id)) {
-          const dbOrder = existingOrdersMap.get(order.easyship_shipment_id);
+        if (existingShipmentIds.includes(order.easyship_shipment_id)) {
           await db.query(
             `UPDATE orders SET meta_data = ? WHERE easyship_shipment_id = ?`,
             [JSON.stringify(order), order.easyship_shipment_id]
           );
-          existingOrdersDetails.push({
-            ...order,
-            id: dbOrder.id,
-            custom_order_number: dbOrder.custom_order_number,
-          });
+          existingOrdersDetails.push(order);
         } else {
           const newOrder = await createOrder(
             "admin@gmail.com",
@@ -1267,13 +1193,10 @@ const processOrders = asyncHandler(async (req, res, next) => {
       await db.query(`UPDATE settings SET current_page = ?`, [currentPage]);
     }
 
-    const processedExisting = addInvoiceUrl(existingOrdersDetails, req);
-    const processedCreated = addInvoiceUrl(ordersToCreate, req);
-
     return res.status(200).json({
       message: "Orders processed successfully.",
-      existingOrders: processedExisting,
-      createdOrders: processedCreated,
+      existingOrders: existingOrdersDetails,
+      createdOrders: ordersToCreate,
     });
   } catch (error) {
     console.error("Error processing orders:", error.message);
