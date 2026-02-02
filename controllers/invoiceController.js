@@ -28,7 +28,7 @@ const generateInvoiceController = asyncHandler(async (req, res, next) => {
       throw new ApiError(400, "Missing required fields.");
     }
 
-    const invoicesDir = path.join(__dirname, "../invoices");
+    const invoicesDir = path.join(__dirname, "../saleinvoices");
     if (!fs.existsSync(invoicesDir)) {
       fs.mkdirSync(invoicesDir, { recursive: true });
     }
