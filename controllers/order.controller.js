@@ -1,4 +1,6 @@
 const { db } = require("../db");
+const fs = require("fs");
+const path = require("path");
 const {
   getAllOrders,
   createOrder,
@@ -38,6 +40,45 @@ const getCurrentOrder = async (orderId) => {
     throw new ApiError(500, "Database error occurred while fetching order");
   }
 };
+
+const addInvoiceUrl = (orders, req) => {
+  if (!orders || !Array.isArray(orders)) return orders;
+
+  const baseUrl = `${req.protocol}://${req.get("host")}`;
+  const invoicesDir = path.join(__dirname, "../saleinvoices");
+
+  return orders.map((order) => {
+    // Determine preferred filename (custom_order_number > id)
+    const customName = order.custom_order_number
+      ? `invoice-${order.custom_order_number}.pdf`
+      : null;
+    const idName = `invoice-${order.id}.pdf`;
+
+    let finalFileName = customName || idName;
+    let exists = false;
+
+    // Check if custom name exists
+    if (customName && fs.existsSync(path.join(invoicesDir, customName))) {
+      finalFileName = customName;
+      exists = true;
+    }
+    // Check if id name exists
+    else if (fs.existsSync(path.join(invoicesDir, idName))) {
+      finalFileName = idName;
+      exists = true;
+    }
+
+    // If neither exists, we stick with the preferred one (customName if available)
+    // to allow the user to click and see the "Not Found" error (which prompts regeneration).
+
+    return {
+      ...order,
+      invoice_url: `${baseUrl}/saleinvoices/${finalFileName}`,
+      invoice_exists: exists,
+    };
+  });
+};
+
 // const fetchAllOrders = asyncHandler(async (req, res, next) => {
 //   const data = await getAllOrders();
 
@@ -47,7 +88,8 @@ const getCurrentOrder = async (orderId) => {
 // });
 
 const fetchAllOrders = asyncHandler(async (req, res, next) => {
-  const data = await getAllOrders();
+  let data = await getAllOrders();
+  data = addInvoiceUrl(data, req);
 
   return res
     .status(200)
@@ -57,7 +99,8 @@ const fetchAllOrders = asyncHandler(async (req, res, next) => {
 
 const fetchOrdersByUser = asyncHandler(async (req, res, next) => {
   const { email } = req.query;
-  const data = await getAllOrdersByEmail(email);
+  let data = await getAllOrdersByEmail(email);
+  data = addInvoiceUrl(data, req);
 
   return res
     .status(200)
@@ -71,6 +114,10 @@ const fetchFilteredOrders = asyncHandler(async (req, res, next) => {
 
   const data = await getFilteredOrders(page, limit);
 
+  if (data.orders) {
+    data.orders = addInvoiceUrl(data.orders, req);
+  }
+
   return res
     .status(200)
     .json(
@@ -83,6 +130,10 @@ const fetchOrdersWithPickupState = asyncHandler(async (req, res, next) => {
   const limit = 75; // 10 records per page
 
   const data = await getOrdersWithPickupState(page, limit);
+
+  if (data.orders) {
+    data.orders = addInvoiceUrl(data.orders, req);
+  }
 
   return res
     .status(200)
@@ -504,7 +555,8 @@ const updateOrder_status = async (orderId, collection_date) => {
   }
 };
 const fetchCustomOrders = asyncHandler(async (req, res, next) => {
-  const data = await getCustomOrders();
+  let data = await getCustomOrders();
+  data = addInvoiceUrl(data, req);
 
   return res
     .status(200)
@@ -675,7 +727,8 @@ const deleteAnOrder = asyncHandler(async (req, res, next) => {
 const getTodayOrders = async (req, res, next) => {
   try {
     const today = new Date().toISOString().split("T")[0];
-    const orders = await getOrdersByCollectionDate(today);
+    let orders = await getOrdersByCollectionDate(today);
+    orders = addInvoiceUrl(orders, req);
 
     res.status(200).json({
       success: true,
@@ -710,6 +763,11 @@ const fetchOrderById = asyncHandler(async (req, res, next) => {
 
   if (!order) {
     throw new ApiError(404, `Order with ID ${id} not found.`);
+  }
+
+  if (order.order) {
+    const [processedOrder] = addInvoiceUrl([order.order], req);
+    order.order = processedOrder;
   }
 
   // Return success response
