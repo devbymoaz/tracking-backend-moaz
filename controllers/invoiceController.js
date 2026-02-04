@@ -922,7 +922,7 @@ const generateSaleInvoiceController = asyncHandler(async (req, res, next) => {
     }
 
     // Header
-    doc.fontSize(18).font("Helvetica-Bold").text("INVOICE", 30, 30);
+    doc.fontSize(18).font("Helvetica-Bold").text("SALE INVOICE", 30, 30);
     doc
       .moveDown(0.5)
       .fontSize(12)
@@ -1227,7 +1227,7 @@ const generateSaleInvoiceController = asyncHandler(async (req, res, next) => {
     const baseUrl = `${req.protocol}://${req.get("host")}`;
     const fileUrl = `${baseUrl}/saleinvoices/${fileName}`;
 
-    res.json({ message: "Invoice generated successfully", url: fileUrl });
+    res.json({ message: "Sale Invoice generated successfully", url: fileUrl });
   } catch (error) {
     console.error("Error generating invoice:", error);
     res
