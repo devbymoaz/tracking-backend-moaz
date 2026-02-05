@@ -1238,12 +1238,7 @@ const generateSaleInvoiceController = asyncHandler(async (req, res, next) => {
   }
 });
 
-module.exports = {
-  generateInvoiceController,
-  generateSaleInvoiceController,
-  autoGenerateCommercialInvoice,
-  autoGenerateSaleInvoice,
-};
+// Exports moved to bottom
 
 const autoGenerateCommercialInvoice = asyncHandler(async (req, res, next) => {
   try {
@@ -1348,3 +1343,10 @@ const autoGenerateSaleInvoice = asyncHandler(async (req, res, next) => {
     next(error);
   }
 });
+
+module.exports = {
+  generateInvoiceController,
+  generateSaleInvoiceController,
+  autoGenerateCommercialInvoice,
+  autoGenerateSaleInvoice,
+};
