@@ -35,6 +35,7 @@ async function verify(token) {
 app.use(
   cors({
     origin: [
+      "https://varamex.online",
       "https://varamex.com",
       "https://www.varamex.com",
       "http://localhost:5173",
