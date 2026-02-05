@@ -1249,28 +1249,51 @@ const autoGenerateCommercialInvoice = asyncHandler(async (req, res, next) => {
       return res.status(404).json({ message: "Order not found" });
     }
 
-    const items = order.order_outside_items || order.order_items || [];
-    const mappedItems = items.map((item) => ({
+    const meta = order.meta_data || {};
+    
+    // Prefer meta_data items if available and valid array
+    let rawItems = [];
+    if (Array.isArray(meta.items) && meta.items.length > 0) {
+        rawItems = meta.items;
+    } else {
+        rawItems = order.order_outside_items || order.order_items || [];
+    }
+
+    const mappedItems = rawItems.map((item) => ({
       description: item.description || item.category || "Item",
       quantity: item.quantity,
-      price: item.price,
+      price: item.actual_value || item.price,
       currency: item.currency || "USD",
-      weight: item.weight,
+      weight: item.net_weight || item.weight,
       hs_code: item.hs_code,
       sku: item.sku,
-      country_of_origin: "CN",
+      country_of_origin: item.origin_country_alpha2 || "CN",
     }));
+
+    const mapAddress = (addr) => {
+        if (!addr) return {};
+        return {
+            contactName: addr.contact_name || addr.contactName || addr.name || addr.company_name,
+            address: [addr.line_1, addr.line_2].filter(Boolean).join(", ") || addr.address,
+            postalCode: addr.postal_code || addr.postalCode || addr.zip,
+            city: [addr.city, addr.state].filter(Boolean).join(", ") || addr.city,
+            phone: addr.contact_phone || addr.phone,
+            email: addr.contact_email || addr.email,
+            country: addr.country_alpha2 || addr.country || addr.country_name
+        };
+    };
 
     const data = {
       orderId: order.easyship_shipment_id,
-      exporter: order.customer_details,
-      consignee: order.delivery_details,
+      exporter: mapAddress(meta.origin_address || order.customer_details),
+      consignee: mapAddress(meta.destination_address || order.delivery_details),
       items: mappedItems,
-      total: items.reduce((sum, item) => sum + item.price * item.quantity, 0),
-      gross_total: items.reduce((sum, item) => sum + item.price * item.quantity, 0),
-      totalWeight: items.reduce((sum, item) => sum + (item.weight || 0), 0),
+      total: mappedItems.reduce((sum, item) => sum + item.price * item.quantity, 0),
+      gross_total: mappedItems.reduce((sum, item) => sum + item.price * item.quantity, 0),
+      total_weight: mappedItems.reduce((sum, item) => sum + (item.weight || 0), 0),
+      custom_tracking_number: order.easyship_shipment_id,
       airWaybillNo: order.easyship_shipment_id,
-      shipmentTerm: "DDU",
+      shipmentTerm: meta.incoterms || "DDU",
       remarks: order.notes,
       type: "parcel",
     };
@@ -1301,28 +1324,51 @@ const autoGenerateSaleInvoice = asyncHandler(async (req, res, next) => {
       return res.status(404).json({ message: "Order not found" });
     }
 
-    const items = order.order_outside_items || order.order_items || [];
-    const mappedItems = items.map((item) => ({
+    const meta = order.meta_data || {};
+
+    // Prefer meta_data items if available
+    let rawItems = [];
+    if (Array.isArray(meta.items) && meta.items.length > 0) {
+        rawItems = meta.items;
+    } else {
+        rawItems = order.order_outside_items || order.order_items || [];
+    }
+
+    const mappedItems = rawItems.map((item) => ({
       description: item.description || item.category || "Item",
       quantity: item.quantity,
-      price: item.price,
+      price: item.actual_value || item.price,
       currency: item.currency || "USD",
-      weight: item.weight,
+      weight: item.net_weight || item.weight,
       hs_code: item.hs_code,
       sku: item.sku,
-      country_of_origin: "CN",
+      country_of_origin: item.origin_country_alpha2 || "CN",
     }));
+
+    const mapAddress = (addr) => {
+        if (!addr) return {};
+        return {
+            contactName: addr.contact_name || addr.contactName || addr.name || addr.company_name,
+            address: [addr.line_1, addr.line_2].filter(Boolean).join(", ") || addr.address,
+            postalCode: addr.postal_code || addr.postalCode || addr.zip,
+            city: [addr.city, addr.state].filter(Boolean).join(", ") || addr.city,
+            phone: addr.contact_phone || addr.phone,
+            email: addr.contact_email || addr.email,
+            country: addr.country_alpha2 || addr.country || addr.country_name
+        };
+    };
 
     const data = {
       orderId: order.easyship_shipment_id,
-      exporter: order.customer_details,
-      consignee: order.delivery_details,
+      exporter: mapAddress(meta.origin_address || order.customer_details),
+      consignee: mapAddress(meta.destination_address || order.delivery_details),
       items: mappedItems,
-      total: items.reduce((sum, item) => sum + item.price * item.quantity, 0),
-      gross_total: items.reduce((sum, item) => sum + item.price * item.quantity, 0),
-      totalWeight: items.reduce((sum, item) => sum + (item.weight || 0), 0),
+      total: mappedItems.reduce((sum, item) => sum + item.price * item.quantity, 0),
+      gross_total: mappedItems.reduce((sum, item) => sum + item.price * item.quantity, 0),
+      total_weight: mappedItems.reduce((sum, item) => sum + (item.weight || 0), 0),
+      custom_tracking_number: order.easyship_shipment_id,
       airWaybillNo: order.easyship_shipment_id,
-      shipmentTerm: "DDU",
+      shipmentTerm: meta.incoterms || "DDU",
       remarks: order.notes,
       type: "parcel",
     };

@@ -719,6 +719,7 @@ const getOrderById = async (id) => {
         o.customer_details,
         o.delivery_details,
         o.billing_details,
+        o.meta_data,
         oi.id AS order_item_id,
         oi.ship_from AS order_item_ship_from,
         oi.ship_to AS order_item_ship_to,
@@ -873,6 +874,7 @@ const getOrderByEasyshipId = async (easyshipId) => {
       customer_details: typeof order.customer_details === 'string' ? JSON.parse(order.customer_details) : order.customer_details,
       delivery_details: typeof order.delivery_details === 'string' ? JSON.parse(order.delivery_details) : order.delivery_details,
       billing_details: typeof order.billing_details === 'string' ? JSON.parse(order.billing_details) : order.billing_details,
+      meta_data: typeof order.meta_data === 'string' ? JSON.parse(order.meta_data) : order.meta_data,
     };
     const orderItems = orderRows.filter((row) => row.order_item_id);
     if (orderItems.length > 0) {
