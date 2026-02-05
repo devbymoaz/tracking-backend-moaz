@@ -3,6 +3,8 @@ const PDFDocument = require("pdfkit");
 const fs = require("fs");
 const path = require("path");
 const { asyncHandler } = require("../utils/asyncHandler");
+const { createCommercialInvoice, createSaleInvoice } = require("../utils/invoiceGenerator");
+const { getOrderByEasyshipId, getOrderById } = require("../models/order.model");
 
 const generateInvoiceController = asyncHandler(async (req, res, next) => {
   try {
@@ -1236,4 +1238,113 @@ const generateSaleInvoiceController = asyncHandler(async (req, res, next) => {
   }
 });
 
-module.exports = { generateInvoiceController, generateSaleInvoiceController };
+module.exports = {
+  generateInvoiceController,
+  generateSaleInvoiceController,
+  autoGenerateCommercialInvoice,
+  autoGenerateSaleInvoice,
+};
+
+const autoGenerateCommercialInvoice = asyncHandler(async (req, res, next) => {
+  try {
+    const { easyshipId } = req.params;
+    const { order } = await getOrderByEasyshipId(easyshipId);
+
+    if (!order) {
+      return res.status(404).json({ message: "Order not found" });
+    }
+
+    const items = order.order_outside_items || order.order_items || [];
+    const mappedItems = items.map((item) => ({
+      description: item.description || item.category || "Item",
+      quantity: item.quantity,
+      price: item.price,
+      currency: item.currency || "USD",
+      weight: item.weight,
+      hs_code: item.hs_code,
+      sku: item.sku,
+      country_of_origin: "CN",
+    }));
+
+    const data = {
+      orderId: order.easyship_shipment_id,
+      exporter: order.customer_details,
+      consignee: order.delivery_details,
+      items: mappedItems,
+      total: items.reduce((sum, item) => sum + item.price * item.quantity, 0),
+      gross_total: items.reduce((sum, item) => sum + item.price * item.quantity, 0),
+      totalWeight: items.reduce((sum, item) => sum + (item.weight || 0), 0),
+      airWaybillNo: order.easyship_shipment_id,
+      shipmentTerm: "DDU",
+      remarks: order.notes,
+      type: "parcel",
+    };
+
+    const invoicesDir = path.join(__dirname, "../invoices");
+    if (!fs.existsSync(invoicesDir)) {
+      fs.mkdirSync(invoicesDir, { recursive: true });
+    }
+
+    const fileName = `invoice-${easyshipId}.pdf`;
+    const filePath = path.join(invoicesDir, fileName);
+
+    await createCommercialInvoice(data, filePath);
+
+    res.sendFile(filePath);
+  } catch (error) {
+    console.error("Error auto-generating commercial invoice:", error);
+    next(error);
+  }
+});
+
+const autoGenerateSaleInvoice = asyncHandler(async (req, res, next) => {
+  try {
+    const { easyshipId } = req.params;
+    const { order } = await getOrderByEasyshipId(easyshipId);
+
+    if (!order) {
+      return res.status(404).json({ message: "Order not found" });
+    }
+
+    const items = order.order_outside_items || order.order_items || [];
+    const mappedItems = items.map((item) => ({
+      description: item.description || item.category || "Item",
+      quantity: item.quantity,
+      price: item.price,
+      currency: item.currency || "USD",
+      weight: item.weight,
+      hs_code: item.hs_code,
+      sku: item.sku,
+      country_of_origin: "CN",
+    }));
+
+    const data = {
+      orderId: order.easyship_shipment_id,
+      exporter: order.customer_details,
+      consignee: order.delivery_details,
+      items: mappedItems,
+      total: items.reduce((sum, item) => sum + item.price * item.quantity, 0),
+      gross_total: items.reduce((sum, item) => sum + item.price * item.quantity, 0),
+      totalWeight: items.reduce((sum, item) => sum + (item.weight || 0), 0),
+      airWaybillNo: order.easyship_shipment_id,
+      shipmentTerm: "DDU",
+      remarks: order.notes,
+      type: "parcel",
+    };
+
+    const saleInvoicesDir = path.join(__dirname, "../saleinvoices");
+    if (!fs.existsSync(saleInvoicesDir)) {
+      fs.mkdirSync(saleInvoicesDir, { recursive: true });
+    }
+
+    const fileName = `invoice-${easyshipId}.pdf`;
+    const filePath = path.join(saleInvoicesDir, fileName);
+
+    await createSaleInvoice(data, filePath);
+
+    res.sendFile(filePath);
+  } catch (error) {
+    console.error("Error auto-generating sale invoice:", error);
+    next(error);
+  }
+});

@@ -54,12 +54,16 @@ app.use(passport.session());
 
 // Static file serving
 app.use("/invoices", express.static(path.join(__dirname, "./invoices")));
+app.get("/invoices/invoice-:easyshipId.pdf", autoGenerateCommercialInvoice);
+
 app.use("/uploads", express.static(path.join(__dirname, "./uploads")));
 
 app.use(
   "/saleinvoices",
   express.static(path.join(__dirname, "./saleinvoices"))
 );
+app.get("/saleinvoices/invoice-:easyshipId.pdf", autoGenerateSaleInvoice);
+
 app.use(
   "/uploads/shipping_label",
   express.static(path.join(__dirname, "./uploads/shipping_labels"))
@@ -81,6 +85,7 @@ const square = require("./routes/square");
 const wallet = require("./routes/userPaymentsRoutes");
 const eashyship = require("./routes/easyshipRoutes");
 const { shipToList } = require("./controllers/ship.controller");
+const { autoGenerateCommercialInvoice, autoGenerateSaleInvoice } = require("./controllers/invoiceController");
 const bodyParser = require("body-parser");
 const invoice = require("./routes/InvoiceRoutes");
 const courier = require("./routes/courier.routes");

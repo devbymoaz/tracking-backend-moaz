@@ -808,6 +808,115 @@ const getOrderById = async (id) => {
     );
   }
 };
+
+const getOrderByEasyshipId = async (easyshipId) => {
+  try {
+    if (!easyshipId) {
+      throw new Error("Easyship ID is required.");
+    }
+
+    const [orderRows] = await db.query(
+      `
+      SELECT 
+        o.id,
+        o.email,
+        o.username,
+        o.role,
+        o.status,
+        o.upload_doc,
+        o.customer_details,
+        o.delivery_details,
+        o.billing_details,
+        oi.id AS order_item_id,
+        oi.ship_from AS order_item_ship_from,
+        oi.ship_to AS order_item_ship_to,
+        oi.category AS order_item_category,
+        oi.quantity AS order_item_quantity,
+        oi.price AS order_item_price,
+        ooi.id AS outside_item_id,
+        ooi.ship_from AS outside_item_ship_from,
+        ooi.ship_to AS outside_item_ship_to,
+        ooi.category AS outside_item_category,
+        ooi.quantity AS outside_item_quantity,
+        ooi.price AS outside_item_price,
+        ooi.box_name,
+        ooi.length,
+        ooi.width,
+        ooi.height,
+        ooi.weight,
+        ooi.sku,
+        ooi.currency,
+        ooi.description,
+        ooi.hs_code
+      FROM orders AS o
+      LEFT JOIN order_items AS oi ON o.id = oi.order_id
+      LEFT JOIN order_outside_items AS ooi ON o.id = ooi.order_id
+      WHERE o.easyship_shipment_id = ?
+    `,
+      [easyshipId]
+    );
+
+    if (orderRows.length === 0) {
+      // Try to find by custom_order_number as fallback if needed, but for now just return null or throw
+      throw new ApiError(404, `Order with Easyship ID ${easyshipId} not found.`);
+    }
+
+    const order = orderRows[0];
+
+    const result = {
+      id: order.id,
+      email: order.email,
+      username: order.username,
+      upload_doc: order.upload_doc,
+      role: order.role,
+      status: order.status,
+      customer_details: typeof order.customer_details === 'string' ? JSON.parse(order.customer_details) : order.customer_details,
+      delivery_details: typeof order.delivery_details === 'string' ? JSON.parse(order.delivery_details) : order.delivery_details,
+      billing_details: typeof order.billing_details === 'string' ? JSON.parse(order.billing_details) : order.billing_details,
+    };
+    const orderItems = orderRows.filter((row) => row.order_item_id);
+    if (orderItems.length > 0) {
+      result.order_items = orderItems.map((item) => ({
+        id: item.order_item_id,
+        ship_from: item.order_item_ship_from,
+        ship_to: item.order_item_ship_to,
+        category: item.order_item_category,
+        quantity: item.order_item_quantity,
+        price: item.order_item_price,
+        markup: item.order_item_markup,
+      }));
+    }
+    const outsideItems = orderRows.filter((row) => row.outside_item_id);
+    if (outsideItems.length > 0) {
+      result.order_outside_items = outsideItems.map((item) => ({
+        id: item.outside_item_id,
+        ship_from: item.outside_item_ship_from,
+        ship_to: item.outside_item_ship_to,
+        category: item.outside_item_category,
+        quantity: item.outside_item_quantity,
+        price: item.outside_item_price,
+        markup: item.outside_item_markup,
+        box_name: item.box_name,
+        length: item.length,
+        width: item.width,
+        height: item.height,
+        weight: item.weight,
+        sku: item.sku,
+        currency: item.currency,
+        description: item.description,
+        hs_code: item.hs_code,
+      }));
+    }
+
+    return { order: result };
+  } catch (error) {
+    console.error("Error fetching order by Easyship ID:", error);
+    throw new ApiError(
+      500,
+      "Database error occurred while retrieving the order."
+    );
+  }
+};
 const updateIsCustom = async (orderId) => {
   const query = `UPDATE orders SET is_custom = 1 WHERE id = ?`;
   const values = [orderId];
@@ -826,6 +935,7 @@ module.exports = {
   addMarkUp,
   getOrderById,
   updateIsCustom,
+  getOrderByEasyshipId,
   getFilteredOrders,
   getOrdersWithPickupState,
   getCustomOrders,
